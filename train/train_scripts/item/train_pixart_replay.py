@@ -12,9 +12,10 @@ from PIL import Image
 from PIL.ImageOps import exif_transpose
 from datetime import datetime
 import time
+import json
+import numpy as np
 
 import datasets
-import numpy as np
 import torch
 import torch.nn.functional as F
 import torch.utils.checkpoint
@@ -37,97 +38,6 @@ from diffusers.utils.import_utils import is_xformers_available
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.INFO)
 
-def log_validation(
-    text_encoder, 
-    tokenizer, 
-    vae, 
-    transformer, 
-    args, 
-    weight_dtype,
-    global_step,
-    prompt_embeds,
-    text_inputs,
-    negative_prompt_embeds,
-    negative_text_inputs,
-    timestamped_output_dir,
-):
-    logger.info(
-        f"Running validation... \n Generating {args.num_validation_images} images with prompt:"
-        f" {args.validation_prompt}."
-    )
-    # Make sure to use the local rank from DeepSpeed's comm object
-    device = torch.device("cuda", ds.comm.get_local_rank())
-    
-    # Load pipeline
-    pipeline = PixArtAlphaPipeline.from_pretrained(
-        args.pretrained_model_name_or_path, 
-        transformer=transformer, 
-        text_encoder=text_encoder, 
-        vae=vae, 
-        torch_dtype=weight_dtype
-    )
-    pipeline = pipeline.to(device)
-
-    if args.pre_compute_text_embeddings:
-        prompt_attention_mask = text_inputs.attention_mask
-        negative_prompt_attention_mask = negative_text_inputs.attention_mask
-        pipeline_args = {
-            "prompt_embeds": prompt_embeds,
-            "negative_prompt_embeds": negative_prompt_embeds,
-            "prompt_attention_mask": prompt_attention_mask,
-            "negative_prompt_attention_mask": negative_prompt_attention_mask,
-            "negative_prompt": None,
-            "prompt": None
-        }
-    else:
-        pipeline_args = {"prompt": args.validation_prompt}
-
-    # run inference
-    generator = None if args.seed is None else torch.Generator(device=device).manual_seed(args.seed)
-    images = []
-    if args.validation_images is None:
-        for _ in range(args.num_validation_images):
-            image = pipeline(**pipeline_args, num_inference_steps=25, generator=generator).images[0]
-            images.append(image)
-    else:
-        for image in args.validation_images:
-            image = Image.open(image)
-            image = pipeline(**pipeline_args, image=image, generator=generator).images[0]
-            images.append(image)
-
-    # Save images to output directory
-    save_dir = os.path.join(timestamped_output_dir, "validation")
-    os.makedirs(save_dir, exist_ok=True)
-    for i, image in enumerate(images):
-        image.save(os.path.join(save_dir, f"validation_{global_step}_{i}.png"))
-
-    # Handle trackers - this needs to be adapted since we're not using accelerator
-    # Log to tensorboard if available via local import
-    try:
-        from torch.utils.tensorboard import SummaryWriter
-        if args.report_to == "tensorboard" or args.report_to == "all":
-            writer = SummaryWriter(log_dir=os.path.join(timestamped_output_dir, "logs"))
-            np_images = np.stack([np.asarray(img) for img in images])
-            writer.add_images("validation", np_images, global_step, dataformats="NHWC")
-            writer.close()
-    except ImportError:
-        pass
-    
-    # Log to wandb if available
-    if (args.report_to == "wandb" or args.report_to == "all") and is_wandb_available():
-        import wandb
-        if wandb.run is not None:
-            wandb.log({
-                "validation": [
-                    wandb.Image(image, caption=f"{i}: {args.validation_prompt}") 
-                    for i, image in enumerate(images)
-                ]
-            })
-
-    del pipeline
-    torch.cuda.empty_cache()
-
-    return images
 
 def tokenize_prompt(tokenizer, prompt, tokenizer_max_length=120):
     if tokenizer_max_length is not None:
@@ -162,6 +72,126 @@ def encode_prompt(text_encoder, input_ids, attention_mask, text_encoder_use_atte
 
     return prompt_embeds
 
+class ExternalReplayData(Dataset):
+    """
+    A dataset for external data to be used as replay samples.
+    Based on the ExternalData class from train_pixart_ds.py
+    """
+    def __init__(self,
+                 root,
+                 image_list_json='data_info.json',
+                 resolution=512,
+                 center_crop=False,
+                 max_length=120,
+                 tokenizer=None,
+                 text_encoder=None,
+                 pre_compute_text_embeddings=False,
+                 ):
+        self.root = root
+        self.resolution = resolution
+        self.max_length = max_length
+        self.tokenizer = tokenizer
+        self.text_encoder = text_encoder
+        self.pre_compute_text_embeddings = pre_compute_text_embeddings
+        
+        self.meta_data_clean = []
+        self.img_samples = []
+        self.txt_samples = []
+        self.txt_feat_samples = []
+        
+        print(f"Loading external replay data from {root}")
+        
+        image_list_json = image_list_json if isinstance(image_list_json, list) else [image_list_json]
+        for json_file in image_list_json:
+            meta_data = self.load_json(os.path.join(self.root, json_file))
+            print(f"{json_file} data volume: {len(meta_data)}")
+            meta_data_clean = [item for item in meta_data]
+            self.meta_data_clean.extend(meta_data_clean)
+            self.img_samples.extend([
+                item['path'] for item in meta_data_clean
+            ])
+            self.txt_samples.extend([item['prompt'] for item in meta_data_clean])
+            self.txt_feat_samples.extend([
+                os.path.join(
+                    "/".join(item['path'].split('/')[:-2]),
+                    'caption_feature',
+                    f'{item["idx"]}.npz'
+                ) for item in meta_data_clean
+            ])
+
+        print(f"Total data volume: {len(self.meta_data_clean)}")
+
+        self.image_transforms = transforms.Compose(
+            [
+                transforms.Resize(resolution, interpolation=transforms.InterpolationMode.BILINEAR),
+                transforms.CenterCrop(resolution) if center_crop else transforms.RandomCrop(resolution),
+                transforms.ToTensor(),
+                transforms.Normalize([0.5], [0.5]),
+            ]
+        )
+        
+    def load_json(self, file_path):
+        with open(file_path, 'r') as f:
+            meta_data = json.load(f)
+        return meta_data
+    
+    def __len__(self):
+        return len(self.img_samples)
+    
+    def __getitem__(self, idx):
+        for _ in range(5):  # Try 5 times in case of error
+            try:
+                example = {}
+                img_path = self.img_samples[idx]
+                
+                # Load and process image
+                instance_image = Image.open(img_path)
+                instance_image = exif_transpose(instance_image)
+                if not instance_image.mode == "RGB":
+                    instance_image = instance_image.convert("RGB")
+                example["instance_images"] = self.image_transforms(instance_image)
+                
+                # Handle text features/embeddings
+                if self.txt_feat_samples and os.path.exists(self.txt_feat_samples[idx]):
+                    # Use pre-computed text features
+                    npz_path = self.txt_feat_samples[idx]
+                    txt_info = np.load(npz_path)
+                    txt_fea = torch.from_numpy(txt_info['caption_feature'])
+                    attention_mask = torch.from_numpy(txt_info['attention_mask'])[None]
+                    
+                    example["instance_prompt_ids"] = txt_fea
+                    example["instance_attention_mask"] = attention_mask
+                else:
+                    # Generate text features on the fly
+                    txt = self.txt_samples[idx]
+                    if self.pre_compute_text_embeddings and self.text_encoder is not None:
+                        text_inputs = tokenize_prompt(
+                            self.tokenizer, txt, tokenizer_max_length=self.max_length
+                        )
+                        with torch.no_grad():
+                            example["instance_prompt_ids"] = encode_prompt(
+                                self.text_encoder,
+                                text_inputs.input_ids.to(self.text_encoder.device),
+                                text_inputs.attention_mask.to(self.text_encoder.device),
+                            )
+                    else:
+                        text_inputs = tokenize_prompt(
+                            self.tokenizer, txt, tokenizer_max_length=self.max_length
+                        )
+                        example["instance_prompt_ids"] = text_inputs.input_ids
+                        example["instance_attention_mask"] = text_inputs.attention_mask
+                
+                # Store the source for later loss weighting
+                example["is_external_replay"] = True
+                
+                return example
+            except Exception as e:
+                print(f"Error processing external replay data {img_path}: {str(e)}")
+                idx = np.random.randint(len(self))
+        
+        # If all retries failed
+        raise RuntimeError('Could not load external replay data after multiple attempts.')
+
 class DreamBoothDataset(Dataset):
     """
     A dataset to prepare the instance and class images with the prompts for fine-tuning the model.
@@ -181,6 +211,8 @@ class DreamBoothDataset(Dataset):
         encoder_hidden_states=None,
         class_prompt_encoder_hidden_states=None,
         tokenizer_max_length=None,
+        replay_paths=None,  # New parameter to accept replay image paths
+        replay_prompts=None,  # New parameter to accept replay prompts
     ):
         self.size = size
         self.center_crop = center_crop
@@ -194,8 +226,27 @@ class DreamBoothDataset(Dataset):
             raise ValueError(f"Instance {self.instance_data_root} images root doesn't exists.")
 
         self.instance_images_path = list(Path(instance_data_root).iterdir())
-        self.num_instance_images = len(self.instance_images_path)
-        self.instance_prompt = instance_prompt
+        
+        # Add replay images to instance images if provided
+        if replay_paths and replay_prompts:
+            self.replay_paths = replay_paths
+            self.replay_prompts = replay_prompts
+            self.instance_images_path.extend(replay_paths)
+            self.num_instance_images = len(self.instance_images_path)
+            # Create a map for image path -> prompt
+            self.image_to_prompt = {}
+            # Map current task images to its prompt
+            for path in list(Path(instance_data_root).iterdir()):
+                self.image_to_prompt[str(path)] = instance_prompt
+            # Map replay images to their prompts
+            for path, prompt in zip(replay_paths, replay_prompts):
+                self.image_to_prompt[str(path)] = prompt
+            self.has_replay = True
+        else:
+            self.num_instance_images = len(self.instance_images_path)
+            self.instance_prompt = instance_prompt
+            self.has_replay = False
+            
         self._length = self.num_instance_images
 
         if class_data_root is not None:
@@ -225,18 +276,28 @@ class DreamBoothDataset(Dataset):
 
     def __getitem__(self, index):
         example = {}
-        instance_image = Image.open(self.instance_images_path[index % self.num_instance_images])
+        instance_path = self.instance_images_path[index % self.num_instance_images]
+        instance_image = Image.open(instance_path)
         instance_image = exif_transpose(instance_image)
 
         if not instance_image.mode == "RGB":
             instance_image = instance_image.convert("RGB")
         example["instance_images"] = self.image_transforms(instance_image)
 
+        # Get the appropriate prompt for this image (either current task or replay)
+        if self.has_replay:
+            instance_prompt = self.image_to_prompt[str(instance_path)]
+            # Mark as replay sample if it's from previous tasks
+            example["is_replay"] = str(instance_path) not in [str(p) for p in list(Path(self.instance_data_root).iterdir())]
+        else:
+            instance_prompt = self.instance_prompt
+            example["is_replay"] = False
+
         if self.encoder_hidden_states is not None:
             example["instance_prompt_ids"] = self.encoder_hidden_states
         else:
             text_inputs = tokenize_prompt(
-                self.tokenizer, self.instance_prompt, tokenizer_max_length=self.tokenizer_max_length
+                self.tokenizer, instance_prompt, tokenizer_max_length=self.tokenizer_max_length
             )
             example["instance_prompt_ids"] = text_inputs.input_ids
             example["instance_attention_mask"] = text_inputs.attention_mask
@@ -601,6 +662,33 @@ def parse_args():
         ),
     )
 
+    # Add external replay options
+    parser.add_argument(
+        "--external_replay_data",
+        type=str,
+        default=None,
+        help="Path to external data directory for replay (used in addition to task replay)",
+    )
+    parser.add_argument(
+        "--external_replay_json",
+        type=str,
+        default="data_info.json",
+        nargs="+",
+        help="The data info json file(s). Can specify multiple JSON files by space-separating them.",
+    )
+    parser.add_argument(
+        "--replay_loss_coefficient",
+        type=float,
+        default=0.5,
+        help="Weight coefficient for loss on replay samples (both internal and external)",
+    )
+    parser.add_argument(
+        "--max_external_replay_samples", 
+        type=int, 
+        default=100,
+        help="Maximum number of external replay samples to use per task",
+    )
+
     args = parser.parse_args()
     env_local_rank = int(os.environ.get("LOCAL_RANK", -1))
     if env_local_rank != -1 and env_local_rank != args.local_rank:
@@ -670,11 +758,14 @@ def train_on_dataset(
     pre_computed_encoder_text_inputs=None,
     pre_computed_class_prompt_encoder_hidden_states=None,
     pre_computed_class_prompt_encoder_text_inputs=None,
+    replay_paths=None,
+    replay_prompts=None,
+    external_replay_dataset=None,
 ):
     """Train the model on a single dataset."""
     
     # Dataset and DataLoaders creation:
-    train_dataset = DreamBoothDataset(
+    main_dataset = DreamBoothDataset(
         instance_data_root=instance_data_dir,
         instance_prompt=instance_prompt,
         class_data_root=class_data_dir if args.with_prior_preservation else None,
@@ -686,23 +777,54 @@ def train_on_dataset(
         encoder_hidden_states=pre_computed_encoder_hidden_states,
         class_prompt_encoder_hidden_states=pre_computed_class_prompt_encoder_hidden_states,
         tokenizer_max_length=args.tokenizer_max_length,
+        replay_paths=replay_paths,
+        replay_prompts=replay_prompts,
     )
-
-    # Create sampler for distributed training
-    train_sampler = torch.utils.data.distributed.DistributedSampler(
-        train_dataset,
+    
+    # Create sampler for distributed training for main dataset
+    main_sampler = torch.utils.data.distributed.DistributedSampler(
+        main_dataset,
         num_replicas=ds.comm.get_world_size(),
         rank=ds.comm.get_rank(),
         shuffle=True,
     )
 
-    train_dataloader = torch.utils.data.DataLoader(
-        train_dataset,
+    main_dataloader = torch.utils.data.DataLoader(
+        main_dataset,
         batch_size=args.train_batch_size,
-        sampler=train_sampler,
+        sampler=main_sampler,
         collate_fn=lambda examples: collate_fn(examples, args.with_prior_preservation),
         num_workers=args.dataloader_num_workers,
     )
+    
+    # Setup external replay dataloader if available
+    external_dataloader = None
+    if external_replay_dataset is not None:
+        # Subsample external dataset if needed
+        if len(external_replay_dataset) > args.max_external_replay_samples:
+            indices = random.sample(range(len(external_replay_dataset)), args.max_external_replay_samples)
+            external_replay_dataset = torch.utils.data.Subset(external_replay_dataset, indices)
+            if ds.comm.get_rank() == 0:
+                logger.info(f"Sampled {len(indices)} examples from external replay dataset")
+        
+        # Create sampler for distributed training for external dataset
+        external_sampler = torch.utils.data.distributed.DistributedSampler(
+            external_replay_dataset,
+            num_replicas=ds.comm.get_world_size(),
+            rank=ds.comm.get_rank(),
+            shuffle=True,
+        )
+        
+        external_dataloader = torch.utils.data.DataLoader(
+            external_replay_dataset,
+            batch_size=args.train_batch_size,  # Use smaller batch size for external data
+            sampler=external_sampler,
+            collate_fn=lambda examples: collate_fn(examples, False),  # No prior preservation for external data
+            num_workers=args.dataloader_num_workers,
+        )
+        
+        if ds.comm.get_rank() == 0:
+            logger.info(f"Created external replay dataloader with {len(external_replay_dataset)} samples")
     
     # Get max_train_steps directly from args
     max_train_steps = args.max_train_steps
@@ -714,11 +836,13 @@ def train_on_dataset(
         logger.info(f"***** Training on dataset: {instance_data_dir} with prompt: {instance_prompt} *****")
         if args.with_prior_preservation:
             logger.info(f"***** Using prior preservation with class data: {class_data_dir} and prompt: {class_prompt} *****")
-        logger.info(f"  Num examples = {len(train_dataset)}")
+        logger.info(f"  Num examples = {len(main_dataset)}")
         logger.info(f"  Instantaneous batch size per device = {args.train_batch_size}")
         logger.info(f"  Total train batch size (w. parallel, distributed & accumulation) = {total_batch_size}")
         logger.info(f"  Gradient Accumulation steps = {args.gradient_accumulation_steps}")
         logger.info(f"  Total optimization steps = {max_train_steps}")
+        if args.replay_loss_coefficient != 1.0:
+            logger.info(f"  Using replay loss coefficient = {args.replay_loss_coefficient}")
 
     global_step = start_global_step
     progress_bar = tqdm(
@@ -729,18 +853,38 @@ def train_on_dataset(
     )
 
     # Calculate number of steps per epoch for setting sampler epoch
-    steps_per_epoch = math.ceil(len(train_dataloader) / args.gradient_accumulation_steps)
+    steps_per_epoch = math.ceil(len(main_dataloader) / args.gradient_accumulation_steps)
     
     model_engine.train()
     train_loss = 0.0
+    
+    # Track loss statistics separately for current task and replay
+    if ds.comm.get_rank() == 0:
+        task_loss_sum = 0.0
+        replay_loss_sum = 0.0
+        external_replay_loss_sum = 0.0
+        task_sample_count = 0
+        replay_sample_count = 0
+        external_replay_sample_count = 0
     
     # Continue training until we reach max_train_steps
     while global_step < start_global_step + max_train_steps:
         # Set the epoch for the sampler based on current step
         current_epoch = global_step // steps_per_epoch
-        train_sampler.set_epoch(current_epoch)
+        main_sampler.set_epoch(current_epoch)
+        if external_dataloader is not None:
+            external_sampler.set_epoch(current_epoch)
         
-        for step, batch in enumerate(train_dataloader):
+        # Create iterators for both dataloaders
+        main_iter = iter(main_dataloader)
+        external_iter = iter(external_dataloader) if external_dataloader is not None else None
+        
+        # Continue until we finish one epoch on the main dataset
+        for _ in range(len(main_dataloader)):
+            # Get a batch from the main dataset
+            batch = next(main_iter)
+            
+            # Process the main batch
             pixel_values = batch["pixel_values"].to(device=device, dtype=weight_dtype)
 
             if vae is not None:
@@ -772,19 +916,23 @@ def train_on_dataset(
                     text_encoder_use_attention_mask=args.text_encoder_use_attention_mask,
                 )
 
-            # Prepare micro-conditions.
+            # Prepare micro-conditions
             added_cond_kwargs = {"resolution": None, "aspect_ratio": None}
             if getattr(model_engine.module, 'config', model_engine.module).sample_size == 128:
                 resolution = torch.tensor([args.resolution, args.resolution]).repeat(bsz, 1)
                 aspect_ratio = torch.tensor([float(args.resolution / args.resolution)]).repeat(bsz, 1)
                 resolution = resolution.to(dtype=weight_dtype, device=model_input.device)
                 aspect_ratio = aspect_ratio.to(dtype=weight_dtype, device=model_input.device)
-                added_cond_kwargs = {"resolution": resolution, "aspect_ratio": aspect_ratio}
-
+                added_cond_kwargs = {
+                    "resolution": resolution, 
+                    "aspect_ratio": aspect_ratio
+                }
+            
+            # Convert inputs to model dtype
             noisy_model_input = noisy_model_input.to(dtype=model_engine.module.dtype)
             encoder_hidden_states = encoder_hidden_states.to(dtype=model_engine.module.dtype)
             timesteps = timesteps.to(dtype=model_engine.module.dtype)
-
+            
             # Predict the noise residual
             model_pred = model_engine(
                 noisy_model_input,
@@ -801,31 +949,143 @@ def train_on_dataset(
             else:
                 raise ValueError(f"Unknown prediction type {noise_scheduler.config.prediction_type}")
             
+
+            # proceed with standard loss calculation
+            if args.snr_gamma is None:
+                loss = F.mse_loss(model_pred.float(), target.float(), reduction="mean")
+            else:
+                # Compute SNR-weighted loss
+                snr = compute_snr(noise_scheduler, timesteps)
+                if noise_scheduler.config.prediction_type == "v_prediction":
+                    snr = snr + 1
+                mse_loss_weights = (torch.stack([snr, args.snr_gamma * torch.ones_like(timesteps)], dim=1).min(dim=1)[0] / snr)
+                loss = F.mse_loss(model_pred.float(), target.float(), reduction="none")
+                loss = loss.mean(dim=list(range(1, len(loss.shape)))) * mse_loss_weights
+                loss = loss.mean()
+
+            # If using prior preservation, add it to the total loss
             if args.with_prior_preservation:
                 # Chunk the noise and model_pred into two parts and compute the loss on each part separately.
                 model_pred, model_pred_prior = torch.chunk(model_pred, 2, dim=0)
                 target, target_prior = torch.chunk(target, 2, dim=0)
                 # Compute prior loss
                 prior_loss = F.mse_loss(model_pred_prior.float(), target_prior.float(), reduction="mean")
-
-            if args.snr_gamma is None:
-                loss = F.mse_loss(model_pred.float(), target.float(), reduction="mean")
-            else:
-                # Compute loss-weights as per Section 3.4 of https://arxiv.org/abs/2303.09556.
-                snr = compute_snr(noise_scheduler, timesteps)
-                if noise_scheduler.config.prediction_type == "v_prediction":
-                    # Velocity objective requires that we add one to SNR values before we divide by them.
-                    snr = snr + 1
-                mse_loss_weights = (torch.stack([snr, args.snr_gamma * torch.ones_like(timesteps)], dim=1).min(dim=1)[0] / snr)
-
-                loss = F.mse_loss(model_pred.float(), target.float(), reduction="none")
-                loss = loss.mean(dim=list(range(1, len(loss.shape)))) * mse_loss_weights
-                loss = loss.mean()
-
-            if args.with_prior_preservation:
-                # Add the prior loss to the instance loss.
+                # Add the prior loss to the instance loss
                 loss = loss + args.prior_loss_weight * prior_loss
 
+            # Process external replay batch (if available)
+            if external_iter is not None:
+                try:
+                    # Get a batch from the external dataset
+                    external_batch = next(external_iter)
+                    
+                    # Process the external batch
+                    external_pixel_values = external_batch["pixel_values"].to(device=device, dtype=weight_dtype)
+                    
+                    if vae is not None:
+                        # Convert images to latent space
+                        external_model_input = vae.encode(external_pixel_values).latent_dist.sample()
+                        external_model_input = external_model_input * vae.config.scaling_factor
+                    else:
+                        external_model_input = external_pixel_values
+                    
+                    external_noise = torch.randn_like(external_model_input)
+                    external_bsz = external_model_input.shape[0]
+                    
+                    # Sample timesteps
+                    external_timesteps = torch.randint(
+                        0, noise_scheduler.config.num_train_timesteps, (external_bsz,), 
+                        device=external_model_input.device
+                    )
+                    external_timesteps = external_timesteps.long()
+                    
+                    # Add noise
+                    external_noisy_model_input = noise_scheduler.add_noise(
+                        external_model_input, external_noise, external_timesteps
+                    )
+                    
+                    # Get text embeddings
+                    if args.pre_compute_text_embeddings:
+                        external_encoder_hidden_states = external_batch["input_ids"].to(device=device, dtype=weight_dtype)
+                    else:
+                        external_encoder_hidden_states = encode_prompt(
+                            text_encoder,
+                            external_batch["input_ids"].to(device=device, dtype=weight_dtype),
+                            external_batch["attention_mask"].to(device=device, dtype=weight_dtype),
+                            text_encoder_use_attention_mask=args.text_encoder_use_attention_mask,
+                        )
+                    
+                    # Prepare micro-conditions
+                    external_added_cond_kwargs = {"resolution": None, "aspect_ratio": None}
+                    if getattr(model_engine.module, 'config', model_engine.module).sample_size == 128:
+                        external_resolution = torch.tensor([args.resolution, args.resolution]).repeat(external_bsz, 1)
+                        external_aspect_ratio = torch.tensor([float(args.resolution / args.resolution)]).repeat(external_bsz, 1)
+                        external_resolution = external_resolution.to(dtype=weight_dtype, device=external_model_input.device)
+                        external_aspect_ratio = external_aspect_ratio.to(dtype=weight_dtype, device=external_model_input.device)
+                        external_added_cond_kwargs = {
+                            "resolution": external_resolution, 
+                            "aspect_ratio": external_aspect_ratio
+                        }
+                    
+                    # Convert to model dtype
+                    external_noisy_model_input = external_noisy_model_input.to(dtype=model_engine.module.dtype)
+                    external_encoder_hidden_states = external_encoder_hidden_states.to(dtype=model_engine.module.dtype)
+                    external_timesteps = external_timesteps.to(dtype=model_engine.module.dtype)
+                    
+                    # Predict noise
+                    external_model_pred = model_engine(
+                        external_noisy_model_input,
+                        encoder_hidden_states=external_encoder_hidden_states,
+                        timestep=external_timesteps,
+                        added_cond_kwargs=external_added_cond_kwargs
+                    ).sample.chunk(2, 1)[0]
+                    
+                    # Get target
+                    if noise_scheduler.config.prediction_type == "epsilon":
+                        external_target = external_noise
+                    elif noise_scheduler.config.prediction_type == "v_prediction":
+                        external_target = noise_scheduler.get_velocity(
+                            external_model_input, external_noise, external_timesteps
+                        )
+                    else:
+                        raise ValueError(f"Unknown prediction type {noise_scheduler.config.prediction_type}")
+                    
+                    # Calculate external loss
+                    if args.snr_gamma is None:
+                        external_loss = F.mse_loss(
+                            external_model_pred.float(), external_target.float(), reduction="mean"
+                        )
+                    else:
+                        # SNR-weighted loss
+                        external_snr = compute_snr(noise_scheduler, external_timesteps)
+                        if noise_scheduler.config.prediction_type == "v_prediction":
+                            external_snr = external_snr + 1
+                        
+                        external_mse_loss_weights = (
+                            torch.stack([external_snr, args.snr_gamma * torch.ones_like(external_timesteps)], dim=1).min(dim=1)[0] / external_snr
+                        )
+                        
+                        external_loss = F.mse_loss(
+                            external_model_pred.float(), external_target.float(), reduction="none"
+                        )
+                        external_loss = external_loss.mean(dim=list(range(1, len(external_loss.shape)))) * external_mse_loss_weights
+                        external_loss = external_loss.mean()
+                    
+                    # Apply replay coefficient to external loss
+                    external_loss = args.replay_loss_coefficient * external_loss
+                    
+                    # Track statistics
+                    if ds.comm.get_rank() == 0:
+                        external_replay_loss_sum += (external_loss / args.replay_loss_coefficient).item() * external_bsz
+                        external_replay_sample_count += external_bsz
+                    
+                    # Add external loss to main loss
+                    loss = loss + external_loss
+                    
+                except StopIteration:
+                    # If we run out of external samples, reset the iterator
+                    external_iter = iter(external_dataloader)
+            
             # Backpropagate with DeepSpeed engine
             model_engine.backward(loss)
             model_engine.step()
@@ -838,16 +1098,41 @@ def train_on_dataset(
             else:
                 train_loss += loss.item()
 
+            # Log detailed loss breakdown every 50 steps
+            if ds.comm.get_rank() == 0 and global_step % 50 == 0:
+                log_message = f"Step {global_step}: "
+                
+                if task_sample_count > 0:
+                    log_message += f"Task loss avg: {task_loss_sum/max(1, task_sample_count):.6f}, "
+                    
+                if replay_sample_count > 0:
+                    log_message += f"Task replay loss avg: {replay_loss_sum/max(1, replay_sample_count):.6f}, "
+                    log_message += f"Task replay samples: {replay_sample_count}, "
+                
+                if external_replay_sample_count > 0:
+                    log_message += f"External replay loss avg: {external_replay_loss_sum/max(1, external_replay_sample_count):.6f}, "
+                    log_message += f"External replay samples: {external_replay_sample_count}, "
+                
+                logger.info(log_message)
+                
+                # Reset counters
+                task_loss_sum = 0.0
+                replay_loss_sum = 0.0
+                external_replay_loss_sum = 0.0
+                task_sample_count = 0
+                replay_sample_count = 0
+                external_replay_sample_count = 0
+
             progress_bar.update(1)
             global_step += 1
-
+            
             logs = {"loss": loss.detach().item(), "lr": lr_scheduler.get_last_lr()[0]}
             logging.info(logs)
             progress_bar.set_postfix(**logs)
             
             if global_step >= start_global_step + max_train_steps:
                 break
-        
+                
         # Break out of the epoch loop if we've reached max_train_steps
         if global_step >= start_global_step + max_train_steps:
             break
@@ -863,7 +1148,7 @@ def main():
     
     # Create timestamp for unique output directory
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-    timestamped_output_dir = os.path.join(args.output_dir, f"run_{timestamp}")
+    timestamped_output_dir = os.path.join(args.output_dir, f"run")
     os.makedirs(timestamped_output_dir, exist_ok=True)
     
     # Configure logging only on the main process
@@ -887,7 +1172,6 @@ def main():
         
         # Save hyperparameters as JSON for easy reference
         with open(os.path.join(timestamped_output_dir, "hyperparameters.json"), "w") as f:
-            import json
             json.dump(hyperparams, f, indent=4, sort_keys=True)
     
     # Set up wandb if needed
@@ -1062,6 +1346,31 @@ def main():
         config=args.deepspeed,
     )
 
+    # Store previous task samples for replay
+    replay_image_paths = []
+    replay_prompts = []
+    
+    # Initialize external replay dataset if specified
+    external_replay_dataset = None
+    if args.external_replay_data:
+        if ds.comm.get_rank() == 0:
+            logger.info(f"Loading external replay data from {args.external_replay_data}")
+        
+        # Initialize external dataset
+        external_replay_dataset = ExternalReplayData(
+            root=args.external_replay_data,
+            image_list_json=args.external_replay_json,
+            resolution=args.resolution,
+            center_crop=args.center_crop,
+            max_length=args.tokenizer_max_length,
+            tokenizer=tokenizer if not args.pre_compute_text_embeddings else None,
+            text_encoder=text_encoder if not args.pre_compute_text_embeddings else None,
+            pre_compute_text_embeddings=args.pre_compute_text_embeddings,
+        )
+        
+        if ds.comm.get_rank() == 0:
+            logger.info(f"Loaded {len(external_replay_dataset)} external replay samples")
+    
     # Continual learning: Loop through each dataset
     global_step = 0
     for dataset_idx, (instance_data_dir, instance_prompt) in enumerate(zip(args.instance_data_dirs, args.instance_prompts)):
@@ -1070,6 +1379,8 @@ def main():
             logger.info(f"Starting training on dataset {dataset_idx+1}/{len(args.instance_data_dirs)}")
             logger.info(f"Data directory: {instance_data_dir}")
             logger.info(f"Prompt: {instance_prompt}")
+            if dataset_idx > 0 and replay_image_paths:
+                logger.info(f"Using task replay with {len(replay_image_paths)} images from previous tasks")
             logger.info(f"==========================================================")
         
         # For datasets after the first one, we need to reinitialize the optimizer and scheduler
@@ -1114,6 +1425,20 @@ def main():
         pre_computed_class_embeddings = pre_computed_class_prompt_encoder_hidden_states_list[dataset_idx] if args.pre_compute_text_embeddings else None
         pre_computed_class_inputs = pre_computed_class_prompt_encoder_text_inputs_list[dataset_idx] if args.pre_compute_text_embeddings else None
         
+        # Create replay options only for tasks after the first one
+        replay_options = {}
+        if dataset_idx > 0 and replay_image_paths:
+            replay_options = {
+                "replay_paths": replay_image_paths,
+                "replay_prompts": replay_prompts
+            }
+            if ds.comm.get_rank() == 0:
+                logger.info(f"Using {len(replay_image_paths)} replay samples from previous tasks")
+        
+        # Add external replay dataset to options
+        if external_replay_dataset is not None:
+            replay_options["external_replay_dataset"] = external_replay_dataset
+        
         global_step = train_on_dataset(
             model_engine=model_engine,
             text_encoder=text_encoder,
@@ -1135,7 +1460,25 @@ def main():
             pre_computed_encoder_text_inputs=pre_computed_instance_inputs,
             pre_computed_class_prompt_encoder_hidden_states=pre_computed_class_embeddings,
             pre_computed_class_prompt_encoder_text_inputs=pre_computed_class_inputs,
+            **replay_options  # Pass replay options to train_on_dataset
         )
+        
+        # After training on a dataset, collect replay samples
+        # Sample random images from the current task to use for replay in future tasks
+        if ds.comm.get_rank() == 0:
+            # Get list of all images in the current task
+            current_task_images = list(Path(instance_data_dir).iterdir())
+            
+            # Sample a few images (at least 1, up to 5 or 10% of the dataset)
+            num_samples = max(1, min(5, int(len(current_task_images) * 0.1)))
+            sampled_images = random.sample(current_task_images, num_samples)
+            
+            # Add to replay collection with corresponding prompt
+            replay_image_paths.extend([str(img) for img in sampled_images])
+            replay_prompts.extend([instance_prompt] * len(sampled_images))
+            
+            logger.info(f"Added {len(sampled_images)} images from task {dataset_idx} to replay buffer.")
+            logger.info(f"Replay buffer now contains {len(replay_image_paths)} images.")
         
         # Save checkpoint after this dataset
         if ds.comm.get_rank() == 0:
