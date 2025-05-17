@@ -15,8 +15,10 @@ import time
 
 import sys
 import os
-sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-from train_scripts.utils.mofo import get_partitioned_params, MomentumFilteringAdam
+current_dir = os.path.dirname(os.path.abspath(__file__))
+project_root = os.path.dirname(os.path.dirname(os.path.dirname(current_dir)))
+sys.path.append(project_root)
+from train.train_scripts.utils.mofo import get_partitioned_params, MomentumFilteringAdam
 
 import datasets
 import numpy as np

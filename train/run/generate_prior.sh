@@ -9,7 +9,7 @@ export OUTPUT_DIR="/opt/data/private/hzhcode/T2I-ConBench-data/item/dog_prior_im
 export PROMPT="a photo of a dog"
 
 # Run the generation script
-python train_scripts/item/generate_item_prior.py \
+python scripts/generate_item_prior.py \
   --pretrained_model_name_or_path=$MODEL_NAME \
   --transformer_path=$TRANSFORMER_PATH \
   --validation_prompt="$PROMPT" \
@@ -27,7 +27,7 @@ export OUTPUT_DIR="/opt/data/private/hzhcode/T2I-ConBench-data/item/cat_prior_im
 export PROMPT="a photo of a cat"
 
 # Run the generation script
-python train_scripts/item/generate_item_prior.py \
+python scripts/generate_item_prior.py \
   --pretrained_model_name_or_path=$MODEL_NAME \
   --transformer_path=$TRANSFORMER_PATH \
   --validation_prompt="$PROMPT" \
@@ -45,7 +45,7 @@ export OUTPUT_DIR="/opt/data/private/hzhcode/T2I-ConBench-data/item/sneaker_prio
 export PROMPT="a photo of a sneaker"
 
 # Run the generation script
-python train_scripts/item/generate_item_prior.py \
+python scripts/generate_item_prior.py \
   --pretrained_model_name_or_path=$MODEL_NAME \
   --transformer_path=$TRANSFORMER_PATH \
   --validation_prompt="$PROMPT" \

@@ -17,7 +17,7 @@ export CLASS_DIR3="/opt/data/private/hzhcode/T2I-ConBench-data/item/sneaker_prio
 
 
 export OUTPUT_DIR="/opt/data/private/hzhcode/T2I-ConBench-data/train_results/ewc_fisher/p0h1"
-deepspeed --num_gpus=2 train_scripts/item/generate_fisher_matrix_item.py \
+deepspeed --num_gpus=2 scripts/generate_fisher_matrix_item.py \
   --deepspeed /opt/data/private/hzhcode/T2I-ConBench/train/ds_config/item.json \
   --pretrained_model_name_or_path=$MODEL_NAME \
   --instance_data_dir=$INSTANCE_DIR1 \
@@ -30,7 +30,7 @@ deepspeed --num_gpus=2 train_scripts/item/generate_fisher_matrix_item.py \
   --mixed_precision="fp16"
 
 export OUTPUT_DIR="/opt/data/private/hzhcode/T2I-ConBench-data/train_results/ewc_fisher/k5f2"
-deepspeed --num_gpus=2 train_scripts/item/generate_fisher_matrix_item.py \
+deepspeed --num_gpus=2 scripts/generate_fisher_matrix_item.py \
   --deepspeed /opt/data/private/hzhcode/T2I-ConBench/train/ds_config/item.json \
   --pretrained_model_name_or_path=$MODEL_NAME \
   --instance_data_dir=$INSTANCE_DIR2 \
@@ -43,7 +43,7 @@ deepspeed --num_gpus=2 train_scripts/item/generate_fisher_matrix_item.py \
   --mixed_precision="fp16"
 
 export OUTPUT_DIR="/opt/data/private/hzhcode/T2I-ConBench-data/train_results/ewc_fisher/s5g3"
-deepspeed --num_gpus=2 train_scripts/item/generate_fisher_matrix_item.py \
+deepspeed --num_gpus=2 scripts/generate_fisher_matrix_item.py \
   --deepspeed /opt/data/private/hzhcode/T2I-ConBench/train/ds_config/item.json \
   --pretrained_model_name_or_path=$MODEL_NAME \
   --instance_data_dir=$INSTANCE_DIR3 \
@@ -56,7 +56,7 @@ deepspeed --num_gpus=2 train_scripts/item/generate_fisher_matrix_item.py \
   --mixed_precision="fp16"
 
 export OUTPUT_DIR="/opt/data/private/hzhcode/T2I-ConBench-data/train_results/ewc_fisher/b9l1"
-deepspeed --num_gpus=2 train_scripts/item/generate_fisher_matrix_item.py \
+deepspeed --num_gpus=2 scripts/generate_fisher_matrix_item.py \
   --deepspeed /opt/data/private/hzhcode/T2I-ConBench/train/ds_config/item.json \
   --pretrained_model_name_or_path=$MODEL_NAME \
   --instance_data_dir=$INSTANCE_DIR4 \
