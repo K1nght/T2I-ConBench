@@ -77,4 +77,4 @@ pip install -r requirements.txt
 ## Acknowledgements
 We would like to thank the following repositories:
 - [Diffusers Dreambooth Example](https://github.com/huggingface/diffusers/tree/main/examples/dreambooth)
-- [PixArt-$\alpha$](https://github.com/PixArt-alpha/PixArt-alpha)
+- [PixArt-α](https://github.com/PixArt-alpha/PixArt-alpha)
