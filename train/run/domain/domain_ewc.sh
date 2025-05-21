@@ -31,7 +31,7 @@ deepspeed --num_gpus=2 \
 sleep 5
 
 export TRANSFORMER_PATH="/opt/data/private/hzhcode/T2I-ConBench-data/train_results/ewc/nature/run/transformer-320"
-export OUTPUT_DIR="/opt/data/private/hzhcode/T2I-ConBench-data/train_results/ewc/nature_body"
+export OUTPUT_DIR="/opt/data/private/hzhcode/T2I-ConBench-data/train_results/ewc/nature-body"
 
 # Run with DeepSpeed
 deepspeed --num_gpus=2 \

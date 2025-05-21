@@ -27,7 +27,7 @@ export PROMPTS_FILE="/opt/data/private/hzhcode/T2I-ConBench-data/test_prompts/it
 DIR="/opt/data/private/hzhcode/T2I-ConBench-data/inference_results"
 
 export TRANSFORMER_PATH="/opt/data/private/hzhcode/T2I-ConBench-data/train_results/seqft/items-nature-body/run/transformer-320"
-export OUTPUT_DIR="${DIR}/item/seqft/items-nature-body/${file}"
+export OUTPUT_DIR="${DIR}/item/seqft/items-nature-body/3_${file}"
 
 CUDA_VISIBLE_DEVICES=${CUDA} python scripts/inference_hf.py \
   --pretrained_model_name_or_path=$MODEL_NAME \
@@ -40,7 +40,7 @@ CUDA_VISIBLE_DEVICES=${CUDA} python scripts/inference_hf.py \
   --fp16 
 
 export TRANSFORMER_PATH="/opt/data/private/hzhcode/T2I-ConBench-data/train_results/seqft/nature-body-items/run/3/transformer"
-export OUTPUT_DIR="${DIR}/item/seqft/nature-body-items/${file}"
+export OUTPUT_DIR="${DIR}/item/seqft/nature-body-items/3_${file}"
 
 CUDA_VISIBLE_DEVICES=${CUDA} python scripts/inference_hf.py \
   --pretrained_model_name_or_path=$MODEL_NAME \

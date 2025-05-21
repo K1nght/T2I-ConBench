@@ -2,7 +2,7 @@
 
 export MODEL_NAME="/opt/data/private/hzhcode/huggingface/models/PixArt-alpha/PixArt-XL-2-512x512"
 export DATA_DIR="/opt/data/private/hzhcode/T2I-ConBench-data/domain/data_info"
-export OUTPUT_DIR="/opt/data/private/hzhcode/T2I-ConBench-data/train_results/joint/nature_body"
+export OUTPUT_DIR="/opt/data/private/hzhcode/T2I-ConBench-data/train_results/joint/nature-body"
 
 # Run with DeepSpeed
 deepspeed --num_gpus=2 \
