@@ -1,0 +1,360 @@
+Prompt: A photo of a Squid and p0h1 dog playing in a sunlit meadow.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of a Squid and p0h1 dog playing in a sunlit meadow.
+{"question":"Is there a Squid in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of a Squid and p0h1 dog playing in a sunlit meadow.
+{"question":"Are the animals playing in a sunlit meadow? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of a Squid and p0h1 dog sitting by a sparkling mountain lake.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of a Squid and p0h1 dog sitting by a sparkling mountain lake.
+{"question":"Is there a Squid in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of a Squid and p0h1 dog sitting by a sparkling mountain lake.
+{"question":"Are the animals sitting by a sparkling mountain lake? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of a Squid and p0h1 dog running across a golden wheat field.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of a Squid and p0h1 dog running across a golden wheat field.
+{"question":"Is there a Squid in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of a Squid and p0h1 dog running across a golden wheat field.
+{"question":"Are the animals running across a golden wheat field? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of a Quokka and p0h1 dog relaxing near a rustic wooden cabin in the forest.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of a Quokka and p0h1 dog relaxing near a rustic wooden cabin in the forest.
+{"question":"Is there a Quokka in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of a Quokka and p0h1 dog relaxing near a rustic wooden cabin in the forest.
+{"question":"Are the animals relaxing near a rustic wooden cabin in the forest? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of a Quokka and p0h1 dog walking along a cobblestone street in an old town.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of a Quokka and p0h1 dog walking along a cobblestone street in an old town.
+{"question":"Is there a Quokka in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of a Quokka and p0h1 dog walking along a cobblestone street in an old town.
+{"question":"Are the animals walking along a cobblestone street in an old town? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A scene of a Quokka and p0h1 dog playing under a cherry blossom tree in full bloom.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A scene of a Quokka and p0h1 dog playing under a cherry blossom tree in full bloom.
+{"question":"Is there a Quokka in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A scene of a Quokka and p0h1 dog playing under a cherry blossom tree in full bloom.
+{"question":"Are the animals playing under a cherry blossom tree in full bloom? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of a Gerenuk and p0h1 dog playing in a city park on a bright summer day.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of a Gerenuk and p0h1 dog playing in a city park on a bright summer day.
+{"question":"Is there a Gerenuk in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of a Gerenuk and p0h1 dog playing in a city park on a bright summer day.
+{"question":"Are the animals playing in a city park on a bright summer day? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of a Gerenuk and p0h1 dog resting near a crackling fireplace in a log cabin.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of a Gerenuk and p0h1 dog resting near a crackling fireplace in a log cabin.
+{"question":"Is there a Gerenuk in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of a Gerenuk and p0h1 dog resting near a crackling fireplace in a log cabin.
+{"question":"Are the animals resting near a crackling fireplace in a log cabin? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of a Gerenuk and p0h1 dog sitting on a wooden pier by a peaceful lake.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of a Gerenuk and p0h1 dog sitting on a wooden pier by a peaceful lake.
+{"question":"Is there a Gerenuk in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of a Gerenuk and p0h1 dog sitting on a wooden pier by a peaceful lake.
+{"question":"Are the animals sitting on a wooden pier by a peaceful lake? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of a Spix's Macaw and p0h1 dog flying over a deserted sandy beach.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of a Spix's Macaw and p0h1 dog flying over a deserted sandy beach.
+{"question":"Is there a Spix's Macaw in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of a Spix's Macaw and p0h1 dog flying over a deserted sandy beach.
+{"question":"Are the animals flying over a deserted sandy beach? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of a Spix's Macaw and p0h1 dog playing together in a snow-covered backyard.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of a Spix's Macaw and p0h1 dog playing together in a snow-covered backyard.
+{"question":"Is there a Spix's Macaw in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of a Spix's Macaw and p0h1 dog playing together in a snow-covered backyard.
+{"question":"Are the animals playing together in a snow-covered backyard? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of a Spix's Macaw and p0h1 dog relaxing on a balcony overlooking a bustling cityscape.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of a Spix's Macaw and p0h1 dog relaxing on a balcony overlooking a bustling cityscape.
+{"question":"Is there a Spix's Macaw in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of a Spix's Macaw and p0h1 dog relaxing on a balcony overlooking a bustling cityscape.
+{"question":"Are the animals relaxing on a balcony overlooking a bustling cityscape? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of a polemo and p0h1 dog lying together in a blooming flower field.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of a polemo and p0h1 dog lying together in a blooming flower field.
+{"question":"Is there a polemo in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of a polemo and p0h1 dog lying together in a blooming flower field.
+{"question":"Are the animals lying together in a blooming flower field? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of a polemo and p0h1 dog playing under a starry night sky in the countryside.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of a polemo and p0h1 dog playing under a starry night sky in the countryside.
+{"question":"Is there a polemo in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of a polemo and p0h1 dog playing under a starry night sky in the countryside.
+{"question":"Are the animals playing under a starry night sky in the countryside? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of a polemo and p0h1 dog running through a golden wheat field at sunset.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of a polemo and p0h1 dog running through a golden wheat field at sunset.
+{"question":"Is there a polemo in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of a polemo and p0h1 dog running through a golden wheat field at sunset.
+{"question":"Are the animals running through a golden wheat field at sunset? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of a Squid and k5f2 dog lying together in a sunlit meadow.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of a Squid and k5f2 dog lying together in a sunlit meadow.
+{"question":"Is there a Squid in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of a Squid and k5f2 dog lying together in a sunlit meadow.
+{"question":"Are the two animals lying together in the meadow? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of a Squid and k5f2 dog playing near a crystal-clear mountain lake.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of a Squid and k5f2 dog playing near a crystal-clear mountain lake.
+{"question":"Is there a Squid in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of a Squid and k5f2 dog playing near a crystal-clear mountain lake.
+{"question":"Are the animals playing near a mountain lake? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of a Squid and k5f2 dog running across a golden beach under the afternoon sun.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of a Squid and k5f2 dog running across a golden beach under the afternoon sun.
+{"question":"Is there a Squid in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of a Squid and k5f2 dog running across a golden beach under the afternoon sun.
+{"question":"Are the animals running on the beach? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of a Quokka and k5f2 dog resting near a rustic wooden cabin.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of a Quokka and k5f2 dog resting near a rustic wooden cabin.
+{"question":"Is there a Quokka in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of a Quokka and k5f2 dog resting near a rustic wooden cabin.
+{"question":"Are the animals resting near a wooden cabin? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of a Quokka and k5f2 dog playing in a blooming flower field.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of a Quokka and k5f2 dog playing in a blooming flower field.
+{"question":"Is there a Quokka in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of a Quokka and k5f2 dog playing in a blooming flower field.
+{"question":"Are the animals playing in a flower field? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of a Quokka and k5f2 dog walking through a foggy forest trail.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of a Quokka and k5f2 dog walking through a foggy forest trail.
+{"question":"Is there a Quokka in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of a Quokka and k5f2 dog walking through a foggy forest trail.
+{"question":"Are the animals walking through a foggy forest? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of a Gerenuk and k5f2 dog playing near a sparkling waterfall in the jungle.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of a Gerenuk and k5f2 dog playing near a sparkling waterfall in the jungle.
+{"question":"Is there a Gerenuk in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of a Gerenuk and k5f2 dog playing near a sparkling waterfall in the jungle.
+{"question":"Are the animals playing near a waterfall in the jungle? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of a Gerenuk and k5f2 dog relaxing in a city park on a sunny day.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of a Gerenuk and k5f2 dog relaxing in a city park on a sunny day.
+{"question":"Is there a Gerenuk in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of a Gerenuk and k5f2 dog relaxing in a city park on a sunny day.
+{"question":"Are the animals relaxing in a city park? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of a Gerenuk and k5f2 dog sitting on a wooden bench under a cherry blossom tree.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of a Gerenuk and k5f2 dog sitting on a wooden bench under a cherry blossom tree.
+{"question":"Is there a Gerenuk in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of a Gerenuk and k5f2 dog sitting on a wooden bench under a cherry blossom tree.
+{"question":"Are the animals sitting on a bench under a cherry blossom tree? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of a Spix's Macaw and k5f2 dog flying over a deserted sandy beach at sunset.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of a Spix's Macaw and k5f2 dog flying over a deserted sandy beach at sunset.
+{"question":"Is there a Spix's Macaw in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of a Spix's Macaw and k5f2 dog flying over a deserted sandy beach at sunset.
+{"question":"Are the animals flying over a sandy beach at sunset? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of a Spix's Macaw and k5f2 dog playing in a snow-covered yard.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of a Spix's Macaw and k5f2 dog playing in a snow-covered yard.
+{"question":"Is there a Spix's Macaw in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of a Spix's Macaw and k5f2 dog playing in a snow-covered yard.
+{"question":"Are the animals playing in a snowy yard? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of a Spix's Macaw and k5f2 dog relaxing on a balcony overlooking a modern cityscape.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of a Spix's Macaw and k5f2 dog relaxing on a balcony overlooking a modern cityscape.
+{"question":"Is there a Spix's Macaw in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of a Spix's Macaw and k5f2 dog relaxing on a balcony overlooking a modern cityscape.
+{"question":"Are the animals relaxing on a balcony with a city view? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of a polemo and k5f2 dog lying in a blooming flower meadow.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of a polemo and k5f2 dog lying in a blooming flower meadow.
+{"question":"Is there a polemo in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of a polemo and k5f2 dog lying in a blooming flower meadow.
+{"question":"Are the animals lying in a flower meadow? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of a polemo and k5f2 dog playing together under a starry night sky in the mountains.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of a polemo and k5f2 dog playing together under a starry night sky in the mountains.
+{"question":"Is there a polemo in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of a polemo and k5f2 dog playing together under a starry night sky in the mountains.
+{"question":"Are the animals playing under the night sky in the mountains? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of a polemo and k5f2 dog chasing each other through a golden wheat field at sunset.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of a polemo and k5f2 dog chasing each other through a golden wheat field at sunset.
+{"question":"Is there a polemo in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of a polemo and k5f2 dog chasing each other through a golden wheat field at sunset.
+{"question":"Are the animals chasing each other in a wheat field at sunset? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of a Squid and s5g3 cat playing near a sunlit lake.
+{"question":"Is there an s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of a Squid and s5g3 cat playing near a sunlit lake.
+{"question":"Is there a Squid in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of a Squid and s5g3 cat playing near a sunlit lake.
+{"question":"Are the animals playing near a lake in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of a Squid and s5g3 cat lying together in a meadow full of daisies.
+{"question":"Is there an s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of a Squid and s5g3 cat lying together in a meadow full of daisies.
+{"question":"Is there a Squid in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of a Squid and s5g3 cat lying together in a meadow full of daisies.
+{"question":"Are the animals lying together in a meadow of daisies in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of a Squid and s5g3 cat exploring a dense rainforest with glowing plants.
+{"question":"Is there an s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of a Squid and s5g3 cat exploring a dense rainforest with glowing plants.
+{"question":"Is there a Squid in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of a Squid and s5g3 cat exploring a dense rainforest with glowing plants.
+{"question":"Are the depicted animals exploring a rainforest with glowing plants? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of a Quokka and s5g3 cat sitting near a peaceful riverbank.
+{"question":"Is there an s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of a Quokka and s5g3 cat sitting near a peaceful riverbank.
+{"question":"Is there a Quokka in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of a Quokka and s5g3 cat sitting near a peaceful riverbank.
+{"question":"Are the animals sitting near a riverbank in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of a Quokka and s5g3 cat running through a flower-covered hilltop.
+{"question":"Is there an s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of a Quokka and s5g3 cat running through a flower-covered hilltop.
+{"question":"Is there a Quokka in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of a Quokka and s5g3 cat running through a flower-covered hilltop.
+{"question":"Are the animals running on a hilltop covered with flowers in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of a Quokka and s5g3 cat resting inside a cozy cottage with a fireplace.
+{"question":"Is there an s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of a Quokka and s5g3 cat resting inside a cozy cottage with a fireplace.
+{"question":"Is there a Quokka in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of a Quokka and s5g3 cat resting inside a cozy cottage with a fireplace.
+{"question":"Are the animals inside a cottage with a fireplace in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of a Gerenuk and s5g3 cat relaxing in a city park surrounded by blooming flowers.
+{"question":"Is there an s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of a Gerenuk and s5g3 cat relaxing in a city park surrounded by blooming flowers.
+{"question":"Is there a Gerenuk in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of a Gerenuk and s5g3 cat relaxing in a city park surrounded by blooming flowers.
+{"question":"Are the animals relaxing in a city park with blooming flowers in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of a Gerenuk and s5g3 cat walking beside a sparkling jungle waterfall.
+{"question":"Is there an s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of a Gerenuk and s5g3 cat walking beside a sparkling jungle waterfall.
+{"question":"Is there a Gerenuk in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of a Gerenuk and s5g3 cat walking beside a sparkling jungle waterfall.
+{"question":"Are the animals walking beside a waterfall in a jungle setting? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of a Gerenuk and s5g3 cat sitting beneath a giant baobab tree.
+{"question":"Is there an s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of a Gerenuk and s5g3 cat sitting beneath a giant baobab tree.
+{"question":"Is there a Gerenuk in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of a Gerenuk and s5g3 cat sitting beneath a giant baobab tree.
+{"question":"Are the animals sitting under a large baobab tree in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of a Spix's Macaw and s5g3 cat perched together on a cliff overlooking the ocean.
+{"question":"Is there an s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of a Spix's Macaw and s5g3 cat perched together on a cliff overlooking the ocean.
+{"question":"Is there a Spix's Macaw in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of a Spix's Macaw and s5g3 cat perched together on a cliff overlooking the ocean.
+{"question":"Are the animals perched on a cliff overlooking the ocean in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of a Spix's Macaw and s5g3 cat playing under a bright rainbow in the valley.
+{"question":"Is there an s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of a Spix's Macaw and s5g3 cat playing under a bright rainbow in the valley.
+{"question":"Is there a Spix's Macaw in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of a Spix's Macaw and s5g3 cat playing under a bright rainbow in the valley.
+{"question":"Are the animals playing under a rainbow in a valley in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of a Spix's Macaw and s5g3 cat sitting on the branch of a tropical tree.
+{"question":"Is there an s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of a Spix's Macaw and s5g3 cat sitting on the branch of a tropical tree.
+{"question":"Is there a Spix's Macaw in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of a Spix's Macaw and s5g3 cat sitting on the branch of a tropical tree.
+{"question":"Are the animals sitting together on a tree branch in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of a polemo and s5g3 cat lying on a sunlit patch of grass in a quiet park.
+{"question":"Is there an s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of a polemo and s5g3 cat lying on a sunlit patch of grass in a quiet park.
+{"question":"Is there a polemo in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of a polemo and s5g3 cat lying on a sunlit patch of grass in a quiet park.
+{"question":"Are the animals lying on a sunlit grass patch in a park in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of a polemo and s5g3 cat playing together in a field of sunflowers.
+{"question":"Is there an s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of a polemo and s5g3 cat playing together in a field of sunflowers.
+{"question":"Is there a polemo in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of a polemo and s5g3 cat playing together in a field of sunflowers.
+{"question":"Are the animals playing together in a sunflower field in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of a polemo and s5g3 cat relaxing under a starry sky in the countryside.
+{"question":"Is there an s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of a polemo and s5g3 cat relaxing under a starry sky in the countryside.
+{"question":"Is there a polemo in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of a polemo and s5g3 cat relaxing under a starry sky in the countryside.
+{"question":"Are the animals relaxing outdoors under the night sky in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of a Squid and b9l1 sneaker lying on a wooden pier by the lake.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of a Squid and b9l1 sneaker lying on a wooden pier by the lake.
+{"question":"Is there a Squid in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of a Squid and b9l1 sneaker lying on a wooden pier by the lake.
+{"question":"Are the objects lying on a wooden pier by the lake? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of a Squid and b9l1 sneaker sitting in a flower field under the warm sun.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of a Squid and b9l1 sneaker sitting in a flower field under the warm sun.
+{"question":"Is there a Squid in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of a Squid and b9l1 sneaker sitting in a flower field under the warm sun.
+{"question":"Are the subjects sitting in a flower field under the sun? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of a Squid and b9l1 sneaker resting on a snowy mountain trail.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of a Squid and b9l1 sneaker resting on a snowy mountain trail.
+{"question":"Is there a Squid in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of a Squid and b9l1 sneaker resting on a snowy mountain trail.
+{"question":"Are the subjects resting on a snowy mountain trail? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of a Quokka and b9l1 sneaker sitting on a bench in a city park.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of a Quokka and b9l1 sneaker sitting on a bench in a city park.
+{"question":"Is there a Quokka in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of a Quokka and b9l1 sneaker sitting on a bench in a city park.
+{"question":"Are the subjects sitting on a bench in a city park? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of a Quokka and b9l1 sneaker lying on a grassy hillside at sunset.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of a Quokka and b9l1 sneaker lying on a grassy hillside at sunset.
+{"question":"Is there a Quokka in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of a Quokka and b9l1 sneaker lying on a grassy hillside at sunset.
+{"question":"Are the subjects lying on a grassy hillside at sunset? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of a Quokka and b9l1 sneaker playing in a flower garden beside a fountain.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of a Quokka and b9l1 sneaker playing in a flower garden beside a fountain.
+{"question":"Is there a Quokka in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of a Quokka and b9l1 sneaker playing in a flower garden beside a fountain.
+{"question":"Are the subjects playing in a flower garden beside a fountain? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of a Gerenuk and b9l1 sneaker playing in a peaceful forest clearing.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of a Gerenuk and b9l1 sneaker playing in a peaceful forest clearing.
+{"question":"Is there a Gerenuk in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of a Gerenuk and b9l1 sneaker playing in a peaceful forest clearing.
+{"question":"Are the subjects playing in a peaceful forest clearing? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of a Gerenuk and b9l1 sneaker sitting near a sparkling jungle stream.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of a Gerenuk and b9l1 sneaker sitting near a sparkling jungle stream.
+{"question":"Is there a Gerenuk in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of a Gerenuk and b9l1 sneaker sitting near a sparkling jungle stream.
+{"question":"Are the subjects sitting near a sparkling jungle stream? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of a Gerenuk and b9l1 sneaker relaxing on a stone bridge in the countryside.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of a Gerenuk and b9l1 sneaker relaxing on a stone bridge in the countryside.
+{"question":"Is there a Gerenuk in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of a Gerenuk and b9l1 sneaker relaxing on a stone bridge in the countryside.
+{"question":"Are the subjects relaxing on a stone bridge in the countryside? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of a Spix's Macaw and b9l1 sneaker flying over a beach at sunrise.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of a Spix's Macaw and b9l1 sneaker flying over a beach at sunrise.
+{"question":"Is there a Spix's Macaw in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of a Spix's Macaw and b9l1 sneaker flying over a beach at sunrise.
+{"question":"Are the subjects flying over a beach at sunrise? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of a Spix's Macaw and b9l1 sneaker sitting in a lush tropical rainforest.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of a Spix's Macaw and b9l1 sneaker sitting in a lush tropical rainforest.
+{"question":"Is there a Spix's Macaw in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of a Spix's Macaw and b9l1 sneaker sitting in a lush tropical rainforest.
+{"question":"Are the subjects sitting in a lush tropical rainforest? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of a Spix's Macaw and b9l1 sneaker perched on a tree branch beside a lake.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of a Spix's Macaw and b9l1 sneaker perched on a tree branch beside a lake.
+{"question":"Is there a Spix's Macaw in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of a Spix's Macaw and b9l1 sneaker perched on a tree branch beside a lake.
+{"question":"Are the subjects perched on a tree branch beside a lake? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of a polemo and b9l1 sneaker lying on a grassy hill under a blue sky.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of a polemo and b9l1 sneaker lying on a grassy hill under a blue sky.
+{"question":"Is there a polemo in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of a polemo and b9l1 sneaker lying on a grassy hill under a blue sky.
+{"question":"Are the subjects lying on a grassy hill under a blue sky? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of a polemo and b9l1 sneaker playing together in a meadow full of daisies.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of a polemo and b9l1 sneaker playing together in a meadow full of daisies.
+{"question":"Is there a polemo in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of a polemo and b9l1 sneaker playing together in a meadow full of daisies.
+{"question":"Are the subjects playing together in a meadow full of daisies? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of a polemo and b9l1 sneaker sitting under a giant oak tree in a forest.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of a polemo and b9l1 sneaker sitting under a giant oak tree in a forest.
+{"question":"Is there a polemo in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of a polemo and b9l1 sneaker sitting under a giant oak tree in a forest.
+{"question":"Are the subjects sitting under a giant oak tree in a forest? Please just answer yes or no.","Correct Answer":"Yes"}

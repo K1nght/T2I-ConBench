@@ -1,0 +1,402 @@
+Prompt: A scuba diver watches in awe as a squid changes colors right before their eyes.
+{"question":"Is there a squid in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A scuba diver watches in awe as a squid changes colors right before their eyes.
+{"question":"Is the squid changing colors in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A marine biologist carefully observes a baby squid hatching from its egg.
+{"question":"Is there a baby squid in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A marine biologist carefully observes a baby squid hatching from its egg.
+{"question":"Is the baby squid hatching from its egg in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A deep-sea explorer in a submarine encounters a giant squid in the dark abyss.
+{"question":"Is there a giant squid in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A deep-sea explorer in a submarine encounters a giant squid in the dark abyss.
+{"question":"Is the explorer encountering the giant squid in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A child presses their hands against the aquarium glass, fascinated by a glowing squid.
+{"question":"Is there a squid in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A child presses their hands against the aquarium glass, fascinated by a glowing squid.
+{"question":"Is the squid glowing in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A fisherman on a boat sees a squid leap from the water, its tentacles glistening under the moonlight.
+{"question":"Is there a squid in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A fisherman on a boat sees a squid leap from the water, its tentacles glistening under the moonlight.
+{"question":"Is the squid leaping from the water in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A freediver reaches out towards a curious squid that hovers near them.
+{"question":"Is there a squid in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A freediver reaches out towards a curious squid that hovers near them.
+{"question":"Is the squid hovering near the freediver in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A scientist in an underwater lab documents a squid's rapid movement.
+{"question":"Is there a squid in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A scientist in an underwater lab documents a squid's rapid movement.
+{"question":"Is the squid moving rapidly in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A diver playfully mimics the movements of a squid, both swaying in the ocean currents.
+{"question":"Is there a squid in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A diver playfully mimics the movements of a squid, both swaying in the ocean currents.
+{"question":"Is the diver mimicking the squid's movements in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photographer captures the moment a squid releases a cloud of ink and disappears.
+{"question":"Is there a squid in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photographer captures the moment a squid releases a cloud of ink and disappears.
+{"question":"Is the squid releasing a cloud of ink in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A chef at a seafood market holds a live squid, showing its texture to a group of students.
+{"question":"Is there a squid in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A chef at a seafood market holds a live squid, showing its texture to a group of students.
+{"question":"Is the chef holding the squid in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A tourist kneels down and takes a selfie with a smiling quokka.
+{"question":"Is there a quokka in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A tourist kneels down and takes a selfie with a smiling quokka.
+{"question":"Is the tourist taking a selfie with the quokka in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A little boy giggles as a quokka curiously sniffs his outstretched hand.
+{"question":"Is there a quokka in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A little boy giggles as a quokka curiously sniffs his outstretched hand.
+{"question":"Is the quokka sniffing the boy's hand in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A wildlife photographer captures a quokka standing on its hind legs, reaching for a leaf.
+{"question":"Is there a quokka in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A wildlife photographer captures a quokka standing on its hind legs, reaching for a leaf.
+{"question":"Is the quokka reaching for a leaf in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A park ranger gently feeds a quokka a small piece of fruit.
+{"question":"Is there a quokka in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A park ranger gently feeds a quokka a small piece of fruit.
+{"question":"Is the park ranger feeding the quokka fruit in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A wildlife researcher watches as a gerenuk stands on its hind legs to reach a tree branch.
+{"question":"Is there a gerenuk in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A wildlife researcher watches as a gerenuk stands on its hind legs to reach a tree branch.
+{"question":"Is the gerenuk standing on its hind legs to reach the tree branch in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photographer captures a stunning shot of a gerenuk silhouetted against the sunset.
+{"question":"Is there a gerenuk in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photographer captures a stunning shot of a gerenuk silhouetted against the sunset.
+{"question":"Is the gerenuk silhouetted against the sunset in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A bird conservationist gently releases a Spix’s macaw into the wild, watching it soar into the sky.
+{"question":"Is there a Spix’s macaw in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A bird conservationist gently releases a Spix’s macaw into the wild, watching it soar into the sky.
+{"question":"Is the Spix’s macaw being released into the wild in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A little boy joyfully watches as a Spix’s macaw mimics his whistling sounds.
+{"question":"Is there a Spix’s macaw in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A little boy joyfully watches as a Spix’s macaw mimics his whistling sounds.
+{"question":"Is the Spix’s macaw mimicking the boy's whistling in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A farmer carefully picks a ripe pomelo from the tree, inspecting its golden skin.
+{"question":"Is there a pomelo in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A farmer carefully picks a ripe pomelo from the tree, inspecting its golden skin.
+{"question":"Is the farmer picking the pomelo in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A little girl struggles to peel a pomelo, her face lighting up as she finally separates the segments.
+{"question":"Is there a pomelo in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A little girl struggles to peel a pomelo, her face lighting up as she finally separates the segments.
+{"question":"Is the little girl peeling the pomelo in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A grandmother shares stories from her childhood while peeling a pomelo for her grandchildren.
+{"question":"Is there a pomelo in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A grandmother shares stories from her childhood while peeling a pomelo for her grandchildren.
+{"question":"Is the grandmother peeling the pomelo in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A couple sits under a pomelo tree, enjoying the fresh fruit as the breeze carries its citrus scent.
+{"question":"Is there a pomelo in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A couple sits under a pomelo tree, enjoying the fresh fruit as the breeze carries its citrus scent.
+{"question":"Is the couple enjoying the pomelo in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A street vendor arranges bright yellow pomelos on a wooden cart, calling out to potential buyers.
+{"question":"Is there a pomelo in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A street vendor arranges bright yellow pomelos on a wooden cart, calling out to potential buyers.
+{"question":"Is the street vendor arranging pomelos on the cart in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A mother gently feeds her toddler a piece of juicy pomelo, smiling as he giggles.
+{"question":"Is there a pomelo in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A mother gently feeds her toddler a piece of juicy pomelo, smiling as he giggles.
+{"question":"Is the mother feeding the toddler pomelo in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A group of friends at a picnic share a pomelo, passing the fragrant fruit around.
+{"question":"Is there a pomelo in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A group of friends at a picnic share a pomelo, passing the fragrant fruit around.
+{"question":"Is the group of friends sharing the pomelo in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A chef in a bustling kitchen zestfully grates pomelo peel into a simmering pot of jam.
+{"question":"Is there a pomelo in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A chef in a bustling kitchen zestfully grates pomelo peel into a simmering pot of jam.
+{"question":"Is the chef grating pomelo peel in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A scientist in a lab examines a sliced pomelo, studying its vitamin-rich flesh under a microscope.
+{"question":"Is there a pomelo in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A scientist in a lab examines a sliced pomelo, studying its vitamin-rich flesh under a microscope.
+{"question":"Is the scientist examining the pomelo under a microscope in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A child places an empty pomelo peel on their head like a hat, making their family laugh.
+{"question":"Is there a pomelo in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A child places an empty pomelo peel on their head like a hat, making their family laugh.
+{"question":"Is the child placing a pomelo peel on their head in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A young woman in a marketplace taps different pomelos, trying to find the juiciest one.
+{"question":"Is there a pomelo in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A young woman in a marketplace taps different pomelos, trying to find the juiciest one.
+{"question":"Is the young woman tapping pomelos in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A grandfather teaches his grandson the best way to peel a pomelo without wasting any fruit.
+{"question":"Is there a pomelo in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A grandfather teaches his grandson the best way to peel a pomelo without wasting any fruit.
+{"question":"Is the grandfather teaching his grandson how to peel a pomelo in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A tourist in an orchard reaches up to touch a pomelo, marveling at its size.
+{"question":"Is there a pomelo in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A tourist in an orchard reaches up to touch a pomelo, marveling at its size.
+{"question":"Is the tourist touching the pomelo in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A group of elders sit in a park, sharing slices of pomelo while chatting about life.
+{"question":"Is there a pomelo in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A group of elders sit in a park, sharing slices of pomelo while chatting about life.
+{"question":"Is the group of elders sharing pomelo slices in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A gardener carefully waters a pomelo tree, watching as tiny fruits begin to form.
+{"question":"Is there a pomelo tree in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A gardener carefully waters a pomelo tree, watching as tiny fruits begin to form.
+{"question":"Is the gardener watering the pomelo tree in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A child eagerly peels a pomelo, his fingers sticky with sweet juice.
+{"question":"Is there a pomelo in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A child eagerly peels a pomelo, his fingers sticky with sweet juice.
+{"question":"Is the child peeling the pomelo in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A woman arranges fresh pomelos on a temple altar as an offering for good fortune.
+{"question":"Is there a pomelo in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A woman arranges fresh pomelos on a temple altar as an offering for good fortune.
+{"question":"Is the woman arranging pomelos on the altar in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A hiker takes a break under a pomelo tree, enjoying the refreshing citrus scent.
+{"question":"Is there a pomelo tree in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A hiker takes a break under a pomelo tree, enjoying the refreshing citrus scent.
+{"question":"Is the hiker sitting under a pomelo tree in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A market shopper holds up two pomelos, trying to decide which one to buy.
+{"question":"Is there a pomelo in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A market shopper holds up two pomelos, trying to decide which one to buy.
+{"question":"Is the market shopper holding two pomelos in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A little boy helps his father collect fallen pomelos from the ground, placing them into a basket.
+{"question":"Is there a pomelo in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A little boy helps his father collect fallen pomelos from the ground, placing them into a basket.
+{"question":"Is the little boy collecting fallen pomelos in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A wildlife conservationist gently examines an injured quokka before releasing it.
+{"question":"Is there a quokka in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A wildlife conservationist gently examines an injured quokka before releasing it.
+{"question":"Is the conservationist examining the injured quokka in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A father and daughter watch as a quokka nibbles on a blade of grass.
+{"question":"Is there a quokka in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A father and daughter watch as a quokka nibbles on a blade of grass.
+{"question":"Is the quokka nibbling on a blade of grass in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A little girl places a tiny flower crown on a relaxed quokka's head.
+{"question":"Is there a quokka in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A little girl places a tiny flower crown on a relaxed quokka's head.
+{"question":"Is the little girl placing a flower crown on the quokka in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A traveler shares a snack with a quokka, both enjoying the sunny afternoon.
+{"question":"Is there a quokka in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A traveler shares a snack with a quokka, both enjoying the sunny afternoon.
+{"question":"Is the traveler sharing a snack with the quokka in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A tourist laughs as a quokka unexpectedly jumps onto their camera bag.
+{"question":"Is there a quokka in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A tourist laughs as a quokka unexpectedly jumps onto their camera bag.
+{"question":"Is the quokka jumping onto the camera bag in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A group of friends sits on a picnic blanket while a quokka curiously approaches.
+{"question":"Is there a quokka in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A group of friends sits on a picnic blanket while a quokka curiously approaches.
+{"question":"Is the quokka curiously approaching the group of friends in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A boy and his mother watch as two quokkas playfully chase each other.
+{"question":"Are there quokkas in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A boy and his mother watch as two quokkas playfully chase each other.
+{"question":"Are the quokkas playfully chasing each other in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A biologist tags a quokka for a conservation study before letting it hop away.
+{"question":"Is there a quokka in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A biologist tags a quokka for a conservation study before letting it hop away.
+{"question":"Is the biologist tagging the quokka in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A woman gently pets a quokka as it rests beside her on a wooden bench.
+{"question":"Is there a quokka in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A woman gently pets a quokka as it rests beside her on a wooden bench.
+{"question":"Is the woman petting the quokka in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A researcher notes observations while a quokka inspects their notebook.
+{"question":"Is there a quokka in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A researcher notes observations while a quokka inspects their notebook.
+{"question":"Is the quokka inspecting the notebook in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A young couple laughs as a quokka playfully tugs at their backpack straps.
+{"question":"Is there a quokka in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A young couple laughs as a quokka playfully tugs at their backpack straps.
+{"question":"Is the quokka tugging at the backpack straps in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A zookeeper introduces a baby quokka to a group of excited schoolchildren.
+{"question":"Is there a quokka in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A zookeeper introduces a baby quokka to a group of excited schoolchildren.
+{"question":"Is the zookeeper introducing a baby quokka to the schoolchildren in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A camper wakes up to find a curious quokka sniffing around their tent.
+{"question":"Is there a quokka in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A camper wakes up to find a curious quokka sniffing around their tent.
+{"question":"Is the quokka sniffing around the tent in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A quokka jumps onto a woman’s lap as she sits on a park bench.
+{"question":"Is there a quokka in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A quokka jumps onto a woman’s lap as she sits on a park bench.
+{"question":"Is the quokka jumping onto the woman’s lap in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A child sits on the ground, watching a family of quokkas play nearby.
+{"question":"Are there quokkas in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A child sits on the ground, watching a family of quokkas play nearby.
+{"question":"Is the child watching a family of quokkas in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A group of hikers pause as a friendly quokka hops toward them.
+{"question":"Is there a quokka in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A group of hikers pause as a friendly quokka hops toward them.
+{"question":"Is the quokka hopping toward the hikers in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A researcher in a small boat releases a baby squid back into the ocean.
+{"question":"Is there a baby squid in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A researcher in a small boat releases a baby squid back into the ocean.
+{"question":"Is the researcher releasing the baby squid back into the ocean in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A team of scientists aboard a ship lower a camera to study squids in the deep.
+{"question":"Is there a squid in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A team of scientists aboard a ship lower a camera to study squids in the deep.
+{"question":"Are the scientists lowering a camera to study squids in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A swimmer gets startled as a small squid darts past their feet in shallow waters.
+{"question":"Is there a squid in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A swimmer gets startled as a small squid darts past their feet in shallow waters.
+{"question":"Is the squid darting past the swimmer's feet in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A TV host in a nature documentary explains the intelligence of squids while one swims nearby.
+{"question":"Is there a squid in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A TV host in a nature documentary explains the intelligence of squids while one swims nearby.
+{"question":"Is the squid swimming near the TV host in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A group of friends on a beach find a stranded squid and help guide it back to the water.
+{"question":"Is there a squid in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A group of friends on a beach find a stranded squid and help guide it back to the water.
+{"question":"Are the friends helping the stranded squid back into the water in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A young girl sketches a squid in her notebook while visiting an aquarium.
+{"question":"Is there a squid in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A young girl sketches a squid in her notebook while visiting an aquarium.
+{"question":"Is the girl sketching a squid in her notebook in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A biologist carefully tags a squid before releasing it into the wild for research.
+{"question":"Is there a squid in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A biologist carefully tags a squid before releasing it into the wild for research.
+{"question":"Is the biologist tagging the squid in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A safari guide points out a herd of gerenuks to excited tourists.
+{"question":"Are there gerenuks in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A safari guide points out a herd of gerenuks to excited tourists.
+{"question":"Is the safari guide pointing out the gerenuks to the tourists in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A child on a guided tour observes a gerenuk gracefully moving through the grasslands.
+{"question":"Is there a gerenuk in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A child on a guided tour observes a gerenuk gracefully moving through the grasslands.
+{"question":"Is the gerenuk moving through the grasslands in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A veterinarian tends to an injured gerenuk in a wildlife reserve.
+{"question":"Is there a gerenuk in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A veterinarian tends to an injured gerenuk in a wildlife reserve.
+{"question":"Is the veterinarian tending to an injured gerenuk in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A woman sketches a serene scene of a gerenuk drinking from a watering hole.
+{"question":"Is there a gerenuk in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A woman sketches a serene scene of a gerenuk drinking from a watering hole.
+{"question":"Is the gerenuk drinking from a watering hole in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A group of students takes notes as they watch gerenuks in their natural habitat.
+{"question":"Are there gerenuks in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A group of students takes notes as they watch gerenuks in their natural habitat.
+{"question":"Are the students watching gerenuks in their natural habitat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A man in a jeep watches as a gerenuk curiously approaches his vehicle.
+{"question":"Is there a gerenuk in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A man in a jeep watches as a gerenuk curiously approaches his vehicle.
+{"question":"Is the gerenuk approaching the jeep in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A ranger releases a rehabilitated gerenuk back into the wild.
+{"question":"Is there a gerenuk in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A ranger releases a rehabilitated gerenuk back into the wild.
+{"question":"Is the ranger releasing a rehabilitated gerenuk in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A boy and his father quietly observe a gerenuk peeking through the trees.
+{"question":"Is there a gerenuk in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A boy and his father quietly observe a gerenuk peeking through the trees.
+{"question":"Is the gerenuk peeking through the trees in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photographer waits patiently for the perfect shot of a gerenuk mid-stride.
+{"question":"Is there a gerenuk in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photographer waits patiently for the perfect shot of a gerenuk mid-stride.
+{"question":"Is the photographer capturing a gerenuk mid-stride in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A safari guide explains the unique feeding habits of the gerenuk to a group of visitors.
+{"question":"Is there a gerenuk in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A safari guide explains the unique feeding habits of the gerenuk to a group of visitors.
+{"question":"Is the safari guide explaining the feeding habits of the gerenuk in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A woman gently extends her hand as a young gerenuk cautiously sniffs it.
+{"question":"Is there a gerenuk in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A woman gently extends her hand as a young gerenuk cautiously sniffs it.
+{"question":"Is the gerenuk sniffing the woman’s hand in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A researcher sets up a camera trap to monitor gerenuk behavior.
+{"question":"Is there a gerenuk in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A researcher sets up a camera trap to monitor gerenuk behavior.
+{"question":"Is the researcher setting up a camera trap for the gerenuk in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A local farmer watches as a gerenuk calmly walks past his land.
+{"question":"Is there a gerenuk in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A local farmer watches as a gerenuk calmly walks past his land.
+{"question":"Is the gerenuk walking past the farmer’s land in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A child points excitedly as a gerenuk leaps gracefully over a small bush.
+{"question":"Is there a gerenuk in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A child points excitedly as a gerenuk leaps gracefully over a small bush.
+{"question":"Is the gerenuk leaping over a small bush in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A tourist reads about gerenuks at an information board in a national park.
+{"question":"Is there a gerenuk in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A tourist reads about gerenuks at an information board in a national park.
+{"question":"Is the tourist reading about gerenuks at the information board in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A ranger ensures that a protected area remains safe for the resident gerenuks.
+{"question":"Are there gerenuks in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A ranger ensures that a protected area remains safe for the resident gerenuks.
+{"question":"Is the ranger ensuring the protected area is safe for gerenuks in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A girl sketches a gerenuk in her wildlife observation journal.
+{"question":"Is there a gerenuk in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A girl sketches a gerenuk in her wildlife observation journal.
+{"question":"Is the girl sketching a gerenuk in her journal in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A nature enthusiast quietly watches a gerenuk feed in the golden morning light.
+{"question":"Is there a gerenuk in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A nature enthusiast quietly watches a gerenuk feed in the golden morning light.
+{"question":"Is the gerenuk feeding in the golden morning light in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A bird trainer extends their arm as a Spix’s macaw gracefully lands on their gloved hand.
+{"question":"Is there a Spix’s macaw in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A bird trainer extends their arm as a Spix’s macaw gracefully lands on their gloved hand.
+{"question":"Is the Spix’s macaw landing on the bird trainer’s arm in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photographer hides in the dense rainforest, capturing a stunning shot of a Spix’s macaw mid-flight.
+{"question":"Is there a Spix’s macaw in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photographer hides in the dense rainforest, capturing a stunning shot of a Spix’s macaw mid-flight.
+{"question":"Is the photographer capturing the Spix’s macaw mid-flight in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A scientist in a conservation center gently examines a baby Spix’s macaw in their hands.
+{"question":"Is there a Spix’s macaw in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A scientist in a conservation center gently examines a baby Spix’s macaw in their hands.
+{"question":"Is the scientist examining a baby Spix’s macaw in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A couple sits on a wooden bench, smiling as a Spix’s macaw curiously inspects their picnic basket.
+{"question":"Is there a Spix’s macaw in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A couple sits on a wooden bench, smiling as a Spix’s macaw curiously inspects their picnic basket.
+{"question":"Is the Spix’s macaw inspecting the picnic basket in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A zookeeper feeds a Spix’s macaw fresh berries while explaining its history to visitors.
+{"question":"Is there a Spix’s macaw in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A zookeeper feeds a Spix’s macaw fresh berries while explaining its history to visitors.
+{"question":"Is the zookeeper feeding the Spix’s macaw fresh berries in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A traveler in a remote village listens to the calls of a wild Spix’s macaw echoing through the trees.
+{"question":"Is there a Spix’s macaw in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A traveler in a remote village listens to the calls of a wild Spix’s macaw echoing through the trees.
+{"question":"Is the traveler listening to the calls of a Spix’s macaw in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A woman gently strokes the feathers of a pet Spix’s macaw perched on her arm.
+{"question":"Is there a Spix’s macaw in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A woman gently strokes the feathers of a pet Spix’s macaw perched on her arm.
+{"question":"Is the woman stroking the feathers of the Spix’s macaw in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A group of schoolchildren excitedly watch as a Spix’s macaw spreads its brilliant blue wings.
+{"question":"Is there a Spix’s macaw in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A group of schoolchildren excitedly watch as a Spix’s macaw spreads its brilliant blue wings.
+{"question":"Are the schoolchildren watching the Spix’s macaw spreading its wings in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A bird enthusiast in a sanctuary observes a pair of Spix’s macaws preening each other.
+{"question":"Are there Spix’s macaws in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A bird enthusiast in a sanctuary observes a pair of Spix’s macaws preening each other.
+{"question":"Are the Spix’s macaws preening each other in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A rainforest guide points at a Spix’s macaw in the treetops, explaining its rarity to a group of tourists.
+{"question":"Is there a Spix’s macaw in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A rainforest guide points at a Spix’s macaw in the treetops, explaining its rarity to a group of tourists.
+{"question":"Is the rainforest guide pointing at the Spix’s macaw in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A parrot rescuer carefully transfers a rehabilitated Spix’s macaw to a larger aviary.
+{"question":"Is there a Spix’s macaw in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A parrot rescuer carefully transfers a rehabilitated Spix’s macaw to a larger aviary.
+{"question":"Is the parrot rescuer transferring a rehabilitated Spix’s macaw in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A researcher notes down observations as a Spix’s macaw interacts with its mate.
+{"question":"Is there a Spix’s macaw in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A researcher notes down observations as a Spix’s macaw interacts with its mate.
+{"question":"Is the Spix’s macaw interacting with its mate in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: An elderly man on his porch talks to his pet Spix’s macaw, which responds with cheerful squawks.
+{"question":"Is there a Spix’s macaw in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: An elderly man on his porch talks to his pet Spix’s macaw, which responds with cheerful squawks.
+{"question":"Is the pet Spix’s macaw responding with cheerful squawks in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A veterinarian checks the health of a rescued Spix’s macaw before releasing it back into its enclosure.
+{"question":"Is there a Spix’s macaw in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A veterinarian checks the health of a rescued Spix’s macaw before releasing it back into its enclosure.
+{"question":"Is the veterinarian checking the health of the Spix’s macaw in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A child in a garden watches as a Spix’s macaw pecks at a seed feeder.
+{"question":"Is there a Spix’s macaw in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A child in a garden watches as a Spix’s macaw pecks at a seed feeder.
+{"question":"Is the Spix’s macaw pecking at a seed feeder in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A conservationist smiles as they see a newly released Spix’s macaw successfully join a small flock in the wild.
+{"question":"Is there a Spix’s macaw in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A conservationist smiles as they see a newly released Spix’s macaw successfully join a small flock in the wild.
+{"question":"Is the newly released Spix’s macaw joining a small flock in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A sailor tells a tale of a monstrous squid as he gestures dramatically to his friends.
+{"question":"Is there a squid in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A sailor tells a tale of a monstrous squid as he gestures dramatically to his friends.
+{"question":"Is the sailor telling a tale about a squid in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A child laughs as a squid in a touch tank gently wraps a tentacle around their finger.
+{"question":"Is there a squid in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A child laughs as a squid in a touch tank gently wraps a tentacle around their finger.
+{"question":"Is the squid wrapping a tentacle around the child's finger in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A night diver sees a bioluminescent squid glowing in the deep sea.
+{"question":"Is there a squid in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A night diver sees a bioluminescent squid glowing in the deep sea.
+{"question":"Is the squid glowing in the deep sea in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A wildlife researcher carefully observes a Spix’s macaw feeding on a tropical fruit.
+{"question":"Is there a Spix’s macaw in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A wildlife researcher carefully observes a Spix’s macaw feeding on a tropical fruit.
+{"question":"Is the Spix’s macaw feeding on a tropical fruit in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A young girl laughs as a Spix’s macaw perches on her shoulder, playfully tugging at her hair.
+{"question":"Is there a Spix’s macaw in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A young girl laughs as a Spix’s macaw perches on her shoulder, playfully tugging at her hair.
+{"question":"Is the Spix’s macaw perched on the girl's shoulder in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A young girl laughs as a Spix’s macaw perches on her shoulder, playfully tugging at her hair.
+{"question":"Is the Spix’s macaw tugging at the girl's hair in the image? Please just answer yes or no.","Correct Answer":"Yes"}

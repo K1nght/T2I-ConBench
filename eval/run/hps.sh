@@ -1,15 +1,16 @@
 #!/bin/bash
 CUDA="0"
+PATH_TO_DATA="your/path/to/data"
 
-save_to="/opt/data/private/hzhcode/T2I-ConBench-data/inference_results/domain/hps.txt"
+save_to="${PATH_TO_DATA}/inference_results/domain/hps.txt"
 
 for prompt in "nature" "body";do
-prompt_path="/opt/data/private/hzhcode/T2I-ConBench-data/test_prompts/domain/${prompt}.txt"
+prompt_path="data/test_prompts/domain/${prompt}.txt"
 
 for method in seqft; do 
 for data in nature nature_body nature_body_items items_nature_body; do 
 
-dir="/opt/data/private/hzhcode/T2I-ConBench-data/inference_results/domain/$method/$data"
+dir="${PATH_TO_DATA}/inference_results/domain/$method/$data"
 images_folder="${dir}/${prompt}"
 detailed_save_to="${dir}/detailed_${prompt}.txt"
 

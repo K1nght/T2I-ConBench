@@ -1,0 +1,620 @@
+Prompt: A young girl is pointing at  playful p0h1 dog in the park, asking her father if they can take it home.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A young girl is pointing at  playful p0h1 dog in the park, asking her father if they can take it home.
+{"question":"Is someone pointing in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A young girl is pointing at  playful p0h1 dog in the park, asking her father if they can take it home.
+{"question":"Is the girl pointing at the dog? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A boy stands with hands hanging by his sides, staring at p0h1 dog that is wagging its tail in excitement.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A boy stands with hands hanging by his sides, staring at p0h1 dog that is wagging its tail in excitement.
+{"question":"Is someone standing with hands hanging by their sides in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A boy stands with hands hanging by his sides, staring at p0h1 dog that is wagging its tail in excitement.
+{"question":"Is the boy looking at the dog? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A woman has her hands joined in a prayer pose, thanking the heavens for finding her lost p0h1 dog.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A woman has her hands joined in a prayer pose, thanking the heavens for finding her lost p0h1 dog.
+{"question":"Is someone in a prayer pose in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A man with his hands in his pockets watches p0h1 dog run through the meadow, looking thoughtful.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A man with his hands in his pockets watches p0h1 dog run through the meadow, looking thoughtful.
+{"question":"Is the dog running in the meadow in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A child waves their hands energetically, trying to get the attention of p0h1 dog playing with a ball.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A child waves their hands energetically, trying to get the attention of p0h1 dog playing with a ball.
+{"question":"Is someone waving their hands in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A child waves their hands energetically, trying to get the attention of p0h1 dog playing with a ball.
+{"question":"Is the dog playing with a ball in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A young girl grips a leash tightly, holding back an energetic p0h1 dog as it tries to chase after a squirrel in the park.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A young girl grips a leash tightly, holding back an energetic p0h1 dog as it tries to chase after a squirrel in the park.
+{"question":"Is the girl gripping the leash? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A young girl grips a leash tightly, holding back an energetic p0h1 dog as it tries to chase after a squirrel in the park.
+{"question":"Is the dog trying to chase something in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A man presses his hand down on p0h1 dog's head, gently calming it while they wait outside the vet's office.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A man presses his hand down on p0h1 dog's head, gently calming it while they wait outside the vet's office.
+{"question":"Is someone pressing down on the dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A man presses his hand down on p0h1 dog's head, gently calming it while they wait outside the vet's office.
+{"question":"Is the dog being calmed in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A boy makes a fist and waves it playfully at a barking p0h1 dog, pretending to challenge it to a duel.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A boy makes a fist and waves it playfully at a barking p0h1 dog, pretending to challenge it to a duel.
+{"question":"Is someone making a fist in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A boy makes a fist and waves it playfully at a barking p0h1 dog, pretending to challenge it to a duel.
+{"question":"Is the dog barking at the boy in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A woman holds p0h1 dog with both hands, lifting it up to show its new sweater to her friends during a chilly morning walk.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A woman holds p0h1 dog with both hands, lifting it up to show its new sweater to her friends during a chilly morning walk.
+{"question":"Is someone holding the dog with both hands in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A woman holds p0h1 dog with both hands, lifting it up to show its new sweater to her friends during a chilly morning walk.
+{"question":"Is the dog wearing something in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A child gives a cheerful thumbs-up to p0h1 dog after teaching it a new trick, while the dog wags its tail excitedly.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A child gives a cheerful thumbs-up to p0h1 dog after teaching it a new trick, while the dog wags its tail excitedly.
+{"question":"Is someone giving a thumbs-up gesture in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A child gives a cheerful thumbs-up to p0h1 dog after teaching it a new trick, while the dog wags its tail excitedly.
+{"question":"Is the dog wagging its tail in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A young girl poses a heart sign with her hands while sitting next to her playful p0h1 dog in a park filled with blooming flowers.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A young girl poses a heart sign with her hands while sitting next to her playful p0h1 dog in a park filled with blooming flowers.
+{"question":"Is someone making a heart sign gesture in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A young girl poses a heart sign with her hands while sitting next to her playful p0h1 dog in a park filled with blooming flowers.
+{"question":"Is the dog sitting next to the girl in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A boy covers his face with his hands, peeking through his fingers at p0h1 dog, who is trying to catch a frisbee in mid-air.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A boy covers his face with his hands, peeking through his fingers at p0h1 dog, who is trying to catch a frisbee in mid-air.
+{"question":"Is someone covering their face with their hands in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A boy covers his face with his hands, peeking through his fingers at p0h1 dog, who is trying to catch a frisbee in mid-air.
+{"question":"Is the dog trying to catch a frisbee in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A man stands in his backyard, arms crossed, watching p0h1 dog eagerly dig into the soil to find its favorite toy.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A man stands in his backyard, arms crossed, watching p0h1 dog eagerly dig into the soil to find its favorite toy.
+{"question":"Is someone with arms crossed in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A man stands in his backyard, arms crossed, watching p0h1 dog eagerly dig into the soil to find its favorite toy.
+{"question":"Is the dog digging in the soil in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A woman rests her chin on her hand, staring thoughtfully at p0h1 dog, who is lying on the carpet with its head tilted curiously.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A woman rests her chin on her hand, staring thoughtfully at p0h1 dog, who is lying on the carpet with its head tilted curiously.
+{"question":"Is someone resting their chin on their hand in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A woman rests her chin on her hand, staring thoughtfully at p0h1 dog, who is lying on the carpet with its head tilted curiously.
+{"question":"Is the dog lying on the carpet in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A soldier salutes proudly with one hand while p0h1 dog sits beside him, wearing a small medal around its neck.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A soldier salutes proudly with one hand while p0h1 dog sits beside him, wearing a small medal around its neck.
+{"question":"Is someone saluting in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A soldier salutes proudly with one hand while p0h1 dog sits beside him, wearing a small medal around its neck.
+{"question":"Is the dog sitting beside the soldier in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A young woman stands in a sunny park with her hands hanging by her sides, watching her p0h1 dog play with a frisbee on the grass.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A young woman stands in a sunny park with her hands hanging by her sides, watching her p0h1 dog play with a frisbee on the grass.
+{"question":"Is someone with hands hanging by their sides in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A young woman stands in a sunny park with her hands hanging by her sides, watching her p0h1 dog play with a frisbee on the grass.
+{"question":"Is the dog playing with a frisbee in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A little boy kneels on the ground with his hands joined in a prayer pose, hoping that his p0h1 dog will recover soon from an injury.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A little boy kneels on the ground with his hands joined in a prayer pose, hoping that his p0h1 dog will recover soon from an injury.
+{"question":"Is someone in a prayer pose in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A little boy kneels on the ground with his hands joined in a prayer pose, hoping that his p0h1 dog will recover soon from an injury.
+{"question":"Is the dog near the boy in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A man strolls through the woods with his hands in his pockets, looking at his p0h1 dog sniffing around the fallen leaves.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A man strolls through the woods with his hands in his pockets, looking at his p0h1 dog sniffing around the fallen leaves.
+{"question":"Is someone with hands in their pockets in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A man strolls through the woods with his hands in his pockets, looking at his p0h1 dog sniffing around the fallen leaves.
+{"question":"Is the dog sniffing the fallen leaves in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A girl waves her hands excitedly as p0h1 dog runs towards her with a stick in its mouth.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A girl waves her hands excitedly as p0h1 dog runs towards her with a stick in its mouth.
+{"question":"Is someone waving their hands in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A girl waves her hands excitedly as p0h1 dog runs towards her with a stick in its mouth.
+{"question":"Is the dog holding a stick in its mouth in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A farmer grips a leash tightly as p0h1 dog pulls him forward, eager to chase a rabbit in the field.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A farmer grips a leash tightly as p0h1 dog pulls him forward, eager to chase a rabbit in the field.
+{"question":"Is someone gripping something in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A farmer grips a leash tightly as p0h1 dog pulls him forward, eager to chase a rabbit in the field.
+{"question":"Is the dog pulling the leash in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A teacher presses down gently on p0h1 dog's head, calming it as students gather around to pet it.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A teacher presses down gently on p0h1 dog's head, calming it as students gather around to pet it.
+{"question":"Is someone pressing down on the dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A teacher presses down gently on p0h1 dog's head, calming it as students gather around to pet it.
+{"question":"Is the teacher calming the dog by touching its head? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A young boy clenches his fists in excitement as p0h1 dog successfully completes an obstacle course in a dog show.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A young boy clenches his fists in excitement as p0h1 dog successfully completes an obstacle course in a dog show.
+{"question":"Is someone with clenched fists in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A young boy clenches his fists in excitement as p0h1 dog successfully completes an obstacle course in a dog show.
+{"question":"Is the dog completing an obstacle course in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A woman holds a large bone with both hands, offering it to p0h1 dog, who is wagging its tail happily.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A woman holds a large bone with both hands, offering it to p0h1 dog, who is wagging its tail happily.
+{"question":"Is someone holding something with both hands in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A woman holds a large bone with both hands, offering it to p0h1 dog, who is wagging its tail happily.
+{"question":"Is the woman offering the bone to the dog? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A child gives a thumbs-up to p0h1 dog after the dog retrieves a ball from the riverbank.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A child gives a thumbs-up to p0h1 dog after the dog retrieves a ball from the riverbank.
+{"question":"Is someone giving a thumbs-up gesture in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A child gives a thumbs-up to p0h1 dog after the dog retrieves a ball from the riverbank.
+{"question":"Is the dog retrieving a ball in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A man leans against a tree with his arms crossed, watching p0h1 dog dig a hole in the sand.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A man leans against a tree with his arms crossed, watching p0h1 dog dig a hole in the sand.
+{"question":"Is there a person with crossed arms in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A man leans against a tree with his arms crossed, watching p0h1 dog dig a hole in the sand.
+{"question":"Is the dog digging in the sand in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A teenager rests her chin on her hand, sitting on the porch and thinking while p0h1 dog naps beside her.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A teenager rests her chin on her hand, sitting on the porch and thinking while p0h1 dog naps beside her.
+{"question":"Is someone resting their chin on a hand in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A teenager rests her chin on her hand, sitting on the porch and thinking while p0h1 dog naps beside her.
+{"question":"Is the dog napping next to the teenager? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A little girl points at k5f2 dog sitting on a bench, amazed by how calm and quiet it looks.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A little girl points at k5f2 dog sitting on a bench, amazed by how calm and quiet it looks.
+{"question":"Is someone pointing in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A little girl points at k5f2 dog sitting on a bench, amazed by how calm and quiet it looks.
+{"question":"Is the girl pointing at the dog? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A man with hands hanging by his sides observes k5f2 dog resting under the shade of a tree.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A man with hands hanging by his sides observes k5f2 dog resting under the shade of a tree.
+{"question":"Are the man's hands hanging naturally by his sides in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A man with hands hanging by his sides observes k5f2 dog resting under the shade of a tree.
+{"question":"Is the man looking at the dog resting under the tree? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A child kneels with hands joined in a prayer pose, wishing for the health of their beloved k5f2 dog.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A child kneels with hands joined in a prayer pose, wishing for the health of their beloved k5f2 dog.
+{"question":"Is someone holding their hands together in a prayer pose in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A child kneels with hands joined in a prayer pose, wishing for the health of their beloved k5f2 dog.
+{"question":"Is the child facing the dog while in the prayer pose? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A teenager with hands in their pockets casually watches as k5f2 dog chases after a frisbee.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A teenager with hands in their pockets casually watches as k5f2 dog chases after a frisbee.
+{"question":"Is someone's hands in their pockets in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A teenager with hands in their pockets casually watches as k5f2 dog chases after a frisbee.
+{"question":"Is the teenager watching the dog chase the frisbee? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A woman waves her hands in joy as k5f2 dog runs toward her after being called.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A woman waves her hands in joy as k5f2 dog runs toward her after being called.
+{"question":"Is someone waving their hands in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A woman waves her hands in joy as k5f2 dog runs toward her after being called.
+{"question":"Is the dog running toward the woman who is waving? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: An elderly man grips a walking stick while k5f2 dog sits obediently by his side, waiting for their turn to cross the street.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: An elderly man grips a walking stick while k5f2 dog sits obediently by his side, waiting for their turn to cross the street.
+{"question":"Is someone gripping an object in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: An elderly man grips a walking stick while k5f2 dog sits obediently by his side, waiting for their turn to cross the street.
+{"question":"Is the dog sitting next to the man who is gripping the walking stick? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A veterinarian presses her palm down gently on k5f2 dog's side, examining its posture during a routine check-up.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A veterinarian presses her palm down gently on k5f2 dog's side, examining its posture during a routine check-up.
+{"question":"Is someone pressing their palm down in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A veterinarian presses her palm down gently on k5f2 dog's side, examining its posture during a routine check-up.
+{"question":"Is the veterinarian pressing down on the dog's side? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A boy clenches his fist and raises it triumphantly after k5f2 dog successfully fetches a stick from the lake.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A boy clenches his fist and raises it triumphantly after k5f2 dog successfully fetches a stick from the lake.
+{"question":"Is someone making a fist in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A boy clenches his fist and raises it triumphantly after k5f2 dog successfully fetches a stick from the lake.
+{"question":"Is the boy celebrating the dog's success by raising his fist? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A young woman holds k5f2 dog with both hands, posing for a photo with her loyal companion in front of a blooming garden.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A young woman holds k5f2 dog with both hands, posing for a photo with her loyal companion in front of a blooming garden.
+{"question":"Is someone holding something with both hands in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A young woman holds k5f2 dog with both hands, posing for a photo with her loyal companion in front of a blooming garden.
+{"question":"Is the woman holding the dog with both hands for a photo? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A child gives a big thumbs-up to k5f2 dog after the dog wins a local agility competition, while the crowd cheers.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A child gives a big thumbs-up to k5f2 dog after the dog wins a local agility competition, while the crowd cheers.
+{"question":"Is someone giving a thumbs-up gesture in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A child gives a big thumbs-up to k5f2 dog after the dog wins a local agility competition, while the crowd cheers.
+{"question":"Is the child giving the thumbs-up to the dog that just won the competition? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A child poses a peace sign while k5f2 dog jumps up excitedly, wagging its tail as they play together in the garden.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A child poses a peace sign while k5f2 dog jumps up excitedly, wagging its tail as they play together in the garden.
+{"question":"Is someone making a peace sign gesture in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A child poses a peace sign while k5f2 dog jumps up excitedly, wagging its tail as they play together in the garden.
+{"question":"Is the dog jumping up next to the child making the peace sign? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A nervous girl buries her face in her hands, while k5f2 dog tries to cheer her up by nudging her arm gently.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A nervous girl buries her face in her hands, while k5f2 dog tries to cheer her up by nudging her arm gently.
+{"question":"Is someone covering their face with their hands in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A nervous girl buries her face in her hands, while k5f2 dog tries to cheer her up by nudging her arm gently.
+{"question":"Is the dog interacting with the girl who has her face in her hands? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A man folds his arms across his chest, looking sternly at k5f2 dog, who has just knocked over a vase in the living room.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A man folds his arms across his chest, looking sternly at k5f2 dog, who has just knocked over a vase in the living room.
+{"question":"Is someone crossing their arms in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A man folds his arms across his chest, looking sternly at k5f2 dog, who has just knocked over a vase in the living room.
+{"question":"Is the man looking at the dog with crossed arms? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A student sits at their desk, resting their chin on their palm, while k5f2 dog lies under the table, patiently waiting for a treat.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A student sits at their desk, resting their chin on their palm, while k5f2 dog lies under the table, patiently waiting for a treat.
+{"question":"Is someone resting their chin on one hand in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A student sits at their desk, resting their chin on their palm, while k5f2 dog lies under the table, patiently waiting for a treat.
+{"question":"Is the dog lying under the table while the student rests their chin on their hand? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A firefighter salutes in front of the station, with k5f2 dog standing by his side, wearing a small uniform.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A firefighter salutes in front of the station, with k5f2 dog standing by his side, wearing a small uniform.
+{"question":"Is someone making a salute gesture in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A firefighter salutes in front of the station, with k5f2 dog standing by his side, wearing a small uniform.
+{"question":"Is the dog standing next to the firefighter who is saluting? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A veterinarian stands in the clinic with their hands hanging by their sides, observing k5f2 dog wagging its tail nervously on the table.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A veterinarian stands in the clinic with their hands hanging by their sides, observing k5f2 dog wagging its tail nervously on the table.
+{"question":"Is someone standing with hands naturally by their sides in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A veterinarian stands in the clinic with their hands hanging by their sides, observing k5f2 dog wagging its tail nervously on the table.
+{"question":"Is the veterinarian watching the dog as it wags its tail? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A child kneels on the floor with hands joined in prayer pose, wishing that k5f2 dog gets adopted soon.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A child kneels on the floor with hands joined in prayer pose, wishing that k5f2 dog gets adopted soon.
+{"question":"Is there a person holding their hands joined in a prayer pose in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A child kneels on the floor with hands joined in prayer pose, wishing that k5f2 dog gets adopted soon.
+{"question":"Is the child facing the k5f2 dog while in the prayer pose? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A man walks along the beach with his hands tucked into his pockets, k5f2 dog running ahead and barking at the waves.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A man walks along the beach with his hands tucked into his pockets, k5f2 dog running ahead and barking at the waves.
+{"question":"Is there a person with their hands in their pockets in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A man walks along the beach with his hands tucked into his pockets, k5f2 dog running ahead and barking at the waves.
+{"question":"Is the k5f2 dog running in front of the man on the beach? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A woman waves her hands to call k5f2 dog back as it chases a butterfly in the garden.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A woman waves her hands to call k5f2 dog back as it chases a butterfly in the garden.
+{"question":"Is there a person waving their hands in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A woman waves her hands to call k5f2 dog back as it chases a butterfly in the garden.
+{"question":"Is the woman waving her hands towards the k5f2 dog? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A jogger grips the leash tightly as k5f2 dog pulls ahead, eager to chase a squirrel in the park.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A jogger grips the leash tightly as k5f2 dog pulls ahead, eager to chase a squirrel in the park.
+{"question":"Is there a person gripping a leash tightly in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A jogger grips the leash tightly as k5f2 dog pulls ahead, eager to chase a squirrel in the park.
+{"question":"Is the jogger holding the leash attached to the k5f2 dog? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A child gently presses down on k5f2 dog’s back to help it sit still for a photograph.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A child gently presses down on k5f2 dog’s back to help it sit still for a photograph.
+{"question":"Is there a person pressing down with their hand on something in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A child gently presses down on k5f2 dog’s back to help it sit still for a photograph.
+{"question":"Is the child pressing down on the k5f2 dog's back to help it stay in place? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A trainer clenches their fists in triumph as k5f2 dog successfully follows a complex command during training.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A trainer clenches their fists in triumph as k5f2 dog successfully follows a complex command during training.
+{"question":"Is there a person making a fist in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A trainer clenches their fists in triumph as k5f2 dog successfully follows a complex command during training.
+{"question":"Is the trainer making a fist gesture in reaction to the k5f2 dog's successful command? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A woman holds a water bowl with both hands while k5f2 dog eagerly drinks from it after a long walk.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A woman holds a water bowl with both hands while k5f2 dog eagerly drinks from it after a long walk.
+{"question":"Is there a person holding something with both hands in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A woman holds a water bowl with both hands while k5f2 dog eagerly drinks from it after a long walk.
+{"question":"Is the woman holding the bowl for the k5f2 dog to drink from? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A boy gives a thumbs-up to k5f2 dog after it completes a trick in front of his friends.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A boy gives a thumbs-up to k5f2 dog after it completes a trick in front of his friends.
+{"question":"Is there a person showing a thumbs-up gesture in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A boy gives a thumbs-up to k5f2 dog after it completes a trick in front of his friends.
+{"question":"Is the boy giving a thumbs-up gesture to the k5f2 dog? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A man stands against a fence with his arms crossed, watching k5f2 dog play fetch with a group of children.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A man stands against a fence with his arms crossed, watching k5f2 dog play fetch with a group of children.
+{"question":"Is there a person standing with arms crossed in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A man stands against a fence with his arms crossed, watching k5f2 dog play fetch with a group of children.
+{"question":"Is the man with crossed arms watching the k5f2 dog play with children? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A girl sits on a bench, resting her chin on her hand and smiling softly at k5f2 dog lying at her feet.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A girl sits on a bench, resting her chin on her hand and smiling softly at k5f2 dog lying at her feet.
+{"question":"Is there a person resting their chin on one hand in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A girl sits on a bench, resting her chin on her hand and smiling softly at k5f2 dog lying at her feet.
+{"question":"Is the girl looking at the k5f2 dog while resting her chin on her hand? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A boy points at  fluffy s5g3 cat sitting on the windowsill, asking his mom if they can adopt it.
+{"question":"Is there a s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A boy points at  fluffy s5g3 cat sitting on the windowsill, asking his mom if they can adopt it.
+{"question":"Is someone pointing in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A boy points at  fluffy s5g3 cat sitting on the windowsill, asking his mom if they can adopt it.
+{"question":"Is the boy pointing at the cat? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A man with hands hanging by his sides watches  s5g3 cat climb a tree, curious about its next move.
+{"question":"Is there a s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A man with hands hanging by his sides watches  s5g3 cat climb a tree, curious about its next move.
+{"question":"Is someone standing with hands hanging by their sides in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A man with hands hanging by his sides watches  s5g3 cat climb a tree, curious about its next move.
+{"question":"Is the man watching the cat climb the tree? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A woman kneels with hands joined in a prayer pose, hoping for the safe return of her missing s5g3 cat.
+{"question":"Is there a s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A woman kneels with hands joined in a prayer pose, hoping for the safe return of her missing s5g3 cat.
+{"question":"Is someone holding their hands in a prayer pose in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A woman kneels with hands joined in a prayer pose, hoping for the safe return of her missing s5g3 cat.
+{"question":"Is the woman kneeling with hands in a prayer pose, as if hoping for the cat's return? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A teenager with hands in their pockets smiles as s5g3 cat rubs against their legs affectionately.
+{"question":"Is there a s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A teenager with hands in their pockets smiles as s5g3 cat rubs against their legs affectionately.
+{"question":"Is someone standing with their hands in their pockets in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A teenager with hands in their pockets smiles as s5g3 cat rubs against their legs affectionately.
+{"question":"Is the cat rubbing against the teenager's legs? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A child waves their hands to grab the attention of s5g3 cat playing with a ball of yarn.
+{"question":"Is there a s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A child waves their hands to grab the attention of s5g3 cat playing with a ball of yarn.
+{"question":"Is someone waving their hands in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A child waves their hands to grab the attention of s5g3 cat playing with a ball of yarn.
+{"question":"Is the child waving at the cat to get its attention? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A girl grips a soft blanket while curious s5g3 cat peeks out from underneath, ready to pounce on her hand.
+{"question":"Is there a s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A girl grips a soft blanket while curious s5g3 cat peeks out from underneath, ready to pounce on her hand.
+{"question":"Is someone gripping an object in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A girl grips a soft blanket while curious s5g3 cat peeks out from underneath, ready to pounce on her hand.
+{"question":"Is the girl gripping the blanket while the cat is about to pounce? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A man presses his palm down on s5g3 cat’s back, smoothing its fur as it purrs contentedly on his lap.
+{"question":"Is there a s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A man presses his palm down on s5g3 cat’s back, smoothing its fur as it purrs contentedly on his lap.
+{"question":"Is someone pressing their palm down in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A man presses his palm down on s5g3 cat’s back, smoothing its fur as it purrs contentedly on his lap.
+{"question":"Is the man pressing his hand down on the cat's back? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A little boy makes a fist and shakes it playfully at a mischievous s5g3 cat that has just knocked over a glass of water.
+{"question":"Is there a s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A little boy makes a fist and shakes it playfully at a mischievous s5g3 cat that has just knocked over a glass of water.
+{"question":"Is someone making a fist in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A little boy makes a fist and shakes it playfully at a mischievous s5g3 cat that has just knocked over a glass of water.
+{"question":"Is the boy shaking his fist at the cat after it knocked over the glass? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A woman holds s5g3 cat with both hands, carefully placing it onto a tall scratching post in her living room.
+{"question":"Is there a s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A woman holds s5g3 cat with both hands, carefully placing it onto a tall scratching post in her living room.
+{"question":"Is someone holding something with both hands in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A woman holds s5g3 cat with both hands, carefully placing it onto a tall scratching post in her living room.
+{"question":"Is the woman using both hands to place the cat onto the scratching post? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A kid gives a thumbs-up to s5g3 cat wearing a tiny hat, laughing as the s5g3 cat flicks its tail in disapproval.
+{"question":"Is there a s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A kid gives a thumbs-up to s5g3 cat wearing a tiny hat, laughing as the s5g3 cat flicks its tail in disapproval.
+{"question":"Is someone making a thumbs-up gesture in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A kid gives a thumbs-up to s5g3 cat wearing a tiny hat, laughing as the s5g3 cat flicks its tail in disapproval.
+{"question":"Is the kid giving a thumbs-up to the cat? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A little boy poses a V sign with his fingers next to curious s5g3 cat, who is pawing at a butterfly that just landed nearby.
+{"question":"Is there a s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A little boy poses a V sign with his fingers next to curious s5g3 cat, who is pawing at a butterfly that just landed nearby.
+{"question":"Is someone making a V sign gesture with their hands in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A little boy poses a V sign with his fingers next to curious s5g3 cat, who is pawing at a butterfly that just landed nearby.
+{"question":"Is the boy making a V sign next to the cat as it interacts with the butterfly? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A woman covers her face with her hands, laughing softly as the s5g3 cat climbs onto her lap, purring contentedly.
+{"question":"Is there a s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A woman covers her face with her hands, laughing softly as the s5g3 cat climbs onto her lap, purring contentedly.
+{"question":"Is someone covering their face with their hands in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A woman covers her face with her hands, laughing softly as the s5g3 cat climbs onto her lap, purring contentedly.
+{"question":"Is the cat climbing onto the woman's lap? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A girl stands with her arms crossed, staring at the mischievous s5g3 cat that just knocked over a glass of milk.
+{"question":"Is there a s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A girl stands with her arms crossed, staring at the mischievous s5g3 cat that just knocked over a glass of milk.
+{"question":"Is someone's arms crossed in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A girl stands with her arms crossed, staring at the mischievous s5g3 cat that just knocked over a glass of milk.
+{"question":"Is the girl staring at the cat after it knocked over the milk? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A teenager rests her chin on her hand, gazing out the window at the s5g3 cat perched on the windowsill, basking in the sunlight.
+{"question":"Is there a s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A teenager rests her chin on her hand, gazing out the window at the s5g3 cat perched on the windowsill, basking in the sunlight.
+{"question":"Is someone resting their chin on their hand in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A teenager rests her chin on her hand, gazing out the window at the s5g3 cat perched on the windowsill, basking in the sunlight.
+{"question":"Is the teenager looking at the cat on the windowsill? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A soldier salutes in the garden, while the s5g3 cat sits majestically on a tree branch, observing the scene with keen eyes.
+{"question":"Is there a s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A soldier salutes in the garden, while the s5g3 cat sits majestically on a tree branch, observing the scene with keen eyes.
+{"question":"Is someone giving a salute in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A soldier salutes in the garden, while the s5g3 cat sits majestically on a tree branch, observing the scene with keen eyes.
+{"question":"Is the soldier saluting while the cat watches from the tree? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A painter stands with their hands hanging by their sides, admiring s5g3 cat playing near a paint-splattered canvas.
+{"question":"Is there a s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A painter stands with their hands hanging by their sides, admiring s5g3 cat playing near a paint-splattered canvas.
+{"question":"Is someone standing with their hands hanging by their sides in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A painter stands with their hands hanging by their sides, admiring s5g3 cat playing near a paint-splattered canvas.
+{"question":"Is the painter admiring the cat as it plays near the canvas? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A child kneels near a garden with hands joined in prayer pose, wishing the stray s5g3 cat would trust them enough to come closer.
+{"question":"Is there an s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A child kneels near a garden with hands joined in prayer pose, wishing the stray s5g3 cat would trust them enough to come closer.
+{"question":"Is there a person with hands joined in a prayer pose in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A child kneels near a garden with hands joined in prayer pose, wishing the stray s5g3 cat would trust them enough to come closer.
+{"question":"Is the child praying while looking at or towards the cat? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A man walks through an alley with his hands in his pockets, watching s5g3 cat jump gracefully onto a windowsill.
+{"question":"Is there an s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A man walks through an alley with his hands in his pockets, watching s5g3 cat jump gracefully onto a windowsill.
+{"question":"Is there a person with hands in their pockets in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A man walks through an alley with his hands in his pockets, watching s5g3 cat jump gracefully onto a windowsill.
+{"question":"Is the man looking at the cat as it jumps onto the windowsill? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A woman waves her hands gently, trying to coax the shy s5g3 cat out from under the couch.
+{"question":"Is there an s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A woman waves her hands gently, trying to coax the shy s5g3 cat out from under the couch.
+{"question":"Is there a person waving their hands in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A woman waves her hands gently, trying to coax the shy s5g3 cat out from under the couch.
+{"question":"Is the woman waving her hands towards the cat under the couch? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A shopkeeper grips a basket of apples tightly, watching  mischievous s5g3 cat knock over a display stand.
+{"question":"Is there an s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A shopkeeper grips a basket of apples tightly, watching  mischievous s5g3 cat knock over a display stand.
+{"question":"Is there a person gripping a basket in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A shopkeeper grips a basket of apples tightly, watching  mischievous s5g3 cat knock over a display stand.
+{"question":"Is the shopkeeper watching the cat knock over the display stand? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A girl presses down lightly on the s5g3 cat’s fur, grooming it with a soft brush as it purrs contentedly.
+{"question":"Is there an s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A girl presses down lightly on the s5g3 cat’s fur, grooming it with a soft brush as it purrs contentedly.
+{"question":"Is there a person pressing down on the cat’s fur in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A girl presses down lightly on the s5g3 cat’s fur, grooming it with a soft brush as it purrs contentedly.
+{"question":"Is the girl brushing the cat while pressing down on its fur? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A child clenches their fists in frustration as the s5g3 cat swipes a fish off the dining table and runs away.
+{"question":"Is there an s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A child clenches their fists in frustration as the s5g3 cat swipes a fish off the dining table and runs away.
+{"question":"Is there a person with clenched fists in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A child clenches their fists in frustration as the s5g3 cat swipes a fish off the dining table and runs away.
+{"question":"Is the cat taking a fish from the table while the child looks frustrated? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A woman holds s5g3 cat with both hands, cradling it gently as it meows softly.
+{"question":"Is there an s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A woman holds s5g3 cat with both hands, cradling it gently as it meows softly.
+{"question":"Is there a person holding the cat with both hands in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A woman holds s5g3 cat with both hands, cradling it gently as it meows softly.
+{"question":"Is the woman cradling the cat gently with both hands? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A boy gives a thumbs-up to the s5g3 cat that just landed perfectly after leaping from a high bookshelf.
+{"question":"Is there an s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A boy gives a thumbs-up to the s5g3 cat that just landed perfectly after leaping from a high bookshelf.
+{"question":"Is there a person giving a thumbs-up in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A boy gives a thumbs-up to the s5g3 cat that just landed perfectly after leaping from a high bookshelf.
+{"question":"Is the boy giving a thumbs-up to the cat after it jumped from the bookshelf? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A writer sits on a chair with their arms crossed, watching the s5g3 cat curl up on top of their open notebook.
+{"question":"Is there an s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A writer sits on a chair with their arms crossed, watching the s5g3 cat curl up on top of their open notebook.
+{"question":"Is there a person with arms crossed in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A writer sits on a chair with their arms crossed, watching the s5g3 cat curl up on top of their open notebook.
+{"question":"Is the writer watching the cat lying on the open notebook? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A teenager rests her chin on her hand, staring at the s5g3 cat sleeping peacefully on a windowsill.
+{"question":"Is there an s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A teenager rests her chin on her hand, staring at the s5g3 cat sleeping peacefully on a windowsill.
+{"question":"Is there a person resting their chin on their hand in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A teenager rests her chin on her hand, staring at the s5g3 cat sleeping peacefully on a windowsill.
+{"question":"Is the teenager looking at the cat sleeping on the windowsill? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A young athlete points at bright red b9l1 sneaker on display, eagerly asking their coach to buy it for the next game.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A young athlete points at bright red b9l1 sneaker on display, eagerly asking their coach to buy it for the next game.
+{"question":"Is someone pointing in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A young athlete points at bright red b9l1 sneaker on display, eagerly asking their coach to buy it for the next game.
+{"question":"Is the athlete pointing at the sneaker? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A boy with hands hanging by his sides stares at b9l1 sneaker left abandoned on the playground.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A boy with hands hanging by his sides stares at b9l1 sneaker left abandoned on the playground.
+{"question":"Are the boy's hands hanging naturally by his sides in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A boy with hands hanging by his sides stares at b9l1 sneaker left abandoned on the playground.
+{"question":"Is the boy looking at the sneaker? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A woman with her hands joined in a prayer pose hopes to win a contest that would gift her rare b9l1 sneaker.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A woman with her hands joined in a prayer pose hopes to win a contest that would gift her rare b9l1 sneaker.
+{"question":"Is the woman joining her hands in a prayer pose in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A woman with her hands joined in a prayer pose hopes to win a contest that would gift her rare b9l1 sneaker.
+{"question":"Is the woman in prayer pose while looking at the sneaker? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A man with hands in his pockets admires new b9l1 sneaker model being advertised in a shop window.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A man with hands in his pockets admires new b9l1 sneaker model being advertised in a shop window.
+{"question":"Are the man's hands in his pockets in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A man with hands in his pockets admires new b9l1 sneaker model being advertised in a shop window.
+{"question":"Is the man looking at the sneaker in the shop window? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A teenager waves their hands to show off their newly purchased b9l1 sneaker to a group of friends.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A teenager waves their hands to show off their newly purchased b9l1 sneaker to a group of friends.
+{"question":"Is someone waving their hands in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A teenager waves their hands to show off their newly purchased b9l1 sneaker to a group of friends.
+{"question":"Is the teenager waving to show off the sneaker? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A teenager grips brand-new b9l1 sneaker tightly, showing it off to their friends in the schoolyard with a proud smile.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A teenager grips brand-new b9l1 sneaker tightly, showing it off to their friends in the schoolyard with a proud smile.
+{"question":"Is someone gripping something in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A teenager grips brand-new b9l1 sneaker tightly, showing it off to their friends in the schoolyard with a proud smile.
+{"question":"Is the teenager gripping the sneaker while showing it off? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A salesperson presses their palm down on b9l1 sneaker, demonstrating its durable sole to a curious customer in the store.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A salesperson presses their palm down on b9l1 sneaker, demonstrating its durable sole to a curious customer in the store.
+{"question":"Is someone pressing down on something in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A salesperson presses their palm down on b9l1 sneaker, demonstrating its durable sole to a curious customer in the store.
+{"question":"Is the salesperson pressing down on the sneaker to show its sole? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A basketball player clenches his fist in excitement after spotting rare b9l1 sneaker on a display shelf at a sports shop.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A basketball player clenches his fist in excitement after spotting rare b9l1 sneaker on a display shelf at a sports shop.
+{"question":"Is someone making a fist in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A basketball player clenches his fist in excitement after spotting rare b9l1 sneaker on a display shelf at a sports shop.
+{"question":"Is the basketball player making a fist after seeing the sneaker? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A designer holds custom b9l1 sneaker with both hands, presenting it as their latest creation during a product showcase.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A designer holds custom b9l1 sneaker with both hands, presenting it as their latest creation during a product showcase.
+{"question":"Is someone holding something with both hands in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A designer holds custom b9l1 sneaker with both hands, presenting it as their latest creation during a product showcase.
+{"question":"Is the designer holding the sneaker with both hands to present it? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A young athlete gives a thumbs-up to their b9l1 sneaker collection, neatly arranged on a shelf, as they prepare for the next big game.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A young athlete gives a thumbs-up to their b9l1 sneaker collection, neatly arranged on a shelf, as they prepare for the next big game.
+{"question":"Is someone giving a thumbs-up gesture in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A young athlete gives a thumbs-up to their b9l1 sneaker collection, neatly arranged on a shelf, as they prepare for the next big game.
+{"question":"Is the athlete giving a thumbs-up to the sneakers? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A fashionable teenager poses a heart sign with their hands, showing off their brand-new b9l1 sneaker collection in a trendy urban backdrop.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A fashionable teenager poses a heart sign with their hands, showing off their brand-new b9l1 sneaker collection in a trendy urban backdrop.
+{"question":"Is someone making a heart sign with their hands in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A fashionable teenager poses a heart sign with their hands, showing off their brand-new b9l1 sneaker collection in a trendy urban backdrop.
+{"question":"Is the teenager making a heart gesture while showing the sneaker collection? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A young boy buries his face in his hands, embarrassed after accidentally stepping on his friend's shiny new b9l1 sneakers.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A young boy buries his face in his hands, embarrassed after accidentally stepping on his friend's shiny new b9l1 sneakers.
+{"question":"Is someone covering their face with their hands in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A young boy buries his face in his hands, embarrassed after accidentally stepping on his friend's shiny new b9l1 sneakers.
+{"question":"Is the boy's foot in contact with the sneaker while covering his face? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A coach folds his arms across his chest, watching the players admire the limited-edition b9l1 sneakers displayed on the bench.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A coach folds his arms across his chest, watching the players admire the limited-edition b9l1 sneakers displayed on the bench.
+{"question":"Is someone crossing their arms in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A coach folds his arms across his chest, watching the players admire the limited-edition b9l1 sneakers displayed on the bench.
+{"question":"Is the coach watching the players while crossing his arms? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A girl rests her chin on her hand, daydreaming while sketching a design for futuristic b9l1 sneaker in her notebook.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A girl rests her chin on her hand, daydreaming while sketching a design for futuristic b9l1 sneaker in her notebook.
+{"question":"Is someone resting their chin on one hand in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A girl rests her chin on her hand, daydreaming while sketching a design for futuristic b9l1 sneaker in her notebook.
+{"question":"Is the girl sketching a sneaker design while resting her chin? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A model salutes the crowd at a fashion show, wearing a pair of bold, glowing b9l1 sneakers that capture everyone's attention.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A model salutes the crowd at a fashion show, wearing a pair of bold, glowing b9l1 sneakers that capture everyone's attention.
+{"question":"Is someone saluting in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A model salutes the crowd at a fashion show, wearing a pair of bold, glowing b9l1 sneakers that capture everyone's attention.
+{"question":"Is the model saluting while wearing the sneakers? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A fashion model stands with their hands hanging by their sides, showcasing a pair of sleek new b9l1 sneakers in a brightly lit studio.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A fashion model stands with their hands hanging by their sides, showcasing a pair of sleek new b9l1 sneakers in a brightly lit studio.
+{"question":"Are the model's hands hanging by their sides in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A fashion model stands with their hands hanging by their sides, showcasing a pair of sleek new b9l1 sneakers in a brightly lit studio.
+{"question":"Is the fashion model displaying the sneakers in a studio setting? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A young boy kneels in front of b9l1 sneaker store with hands joined in a prayer pose, hoping his parents will buy him the latest pair.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A young boy kneels in front of b9l1 sneaker store with hands joined in a prayer pose, hoping his parents will buy him the latest pair.
+{"question":"Are the boy's hands joined in a prayer pose in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A young boy kneels in front of b9l1 sneaker store with hands joined in a prayer pose, hoping his parents will buy him the latest pair.
+{"question":"Is the boy kneeling in front of the sneaker store with hands in prayer pose? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A teenager walks through a mall with hands in their pockets, glancing at a display of limited-edition b9l1 sneakers.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A teenager walks through a mall with hands in their pockets, glancing at a display of limited-edition b9l1 sneakers.
+{"question":"Are the teenager's hands in their pockets in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A teenager walks through a mall with hands in their pockets, glancing at a display of limited-edition b9l1 sneakers.
+{"question":"Is the teenager looking at the sneakers on display? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A coach waves their hands to signal the start of a race as athletes in colorful b9l1 sneakers line up at the track.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A coach waves their hands to signal the start of a race as athletes in colorful b9l1 sneakers line up at the track.
+{"question":"Is the coach waving their hands in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A coach waves their hands to signal the start of a race as athletes in colorful b9l1 sneakers line up at the track.
+{"question":"Are the athletes wearing sneakers while the coach waves? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A shop assistant grips a box of b9l1 sneakers tightly, rushing to deliver it to a waiting customer.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A shop assistant grips a box of b9l1 sneakers tightly, rushing to deliver it to a waiting customer.
+{"question":"Is the shop assistant gripping the box tightly in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A shop assistant grips a box of b9l1 sneakers tightly, rushing to deliver it to a waiting customer.
+{"question":"Is the box of sneakers being carried towards a customer? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A designer presses down on b9l1 sneaker prototype, testing the flexibility of the sole in their workshop.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A designer presses down on b9l1 sneaker prototype, testing the flexibility of the sole in their workshop.
+{"question":"Is the designer pressing down on the sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A designer presses down on b9l1 sneaker prototype, testing the flexibility of the sole in their workshop.
+{"question":"Is the designer testing the sneaker's flexibility in a workshop setting? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A basketball player clenches their fists in victory, celebrating while wearing their team’s signature b9l1 sneakers.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A basketball player clenches their fists in victory, celebrating while wearing their team’s signature b9l1 sneakers.
+{"question":"Are the basketball player's hands clenched into fists in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A basketball player clenches their fists in victory, celebrating while wearing their team’s signature b9l1 sneakers.
+{"question":"Is the basketball player celebrating a win while wearing the sneakers? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A customer holds a pair of b9l1 sneakers with both hands, examining the design and materials closely in the store.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A customer holds a pair of b9l1 sneakers with both hands, examining the design and materials closely in the store.
+{"question":"Is the customer holding the sneakers with both hands in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A customer holds a pair of b9l1 sneakers with both hands, examining the design and materials closely in the store.
+{"question":"Is the customer inspecting the sneakers closely in the store? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A child gives a thumbs-up to their friend, who just showed off a pair of glowing b9l1 sneakers under the streetlights.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A child gives a thumbs-up to their friend, who just showed off a pair of glowing b9l1 sneakers under the streetlights.
+{"question":"Is the child giving a thumbs-up gesture in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A child gives a thumbs-up to their friend, who just showed off a pair of glowing b9l1 sneakers under the streetlights.
+{"question":"Is the child giving a thumbs-up towards the glowing sneakers? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A young artist stands with their arms crossed, admiring b9l1 sneaker they’ve just painted with intricate patterns.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A young artist stands with their arms crossed, admiring b9l1 sneaker they’ve just painted with intricate patterns.
+{"question":"Are the artist's arms crossed in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A young artist stands with their arms crossed, admiring b9l1 sneaker they’ve just painted with intricate patterns.
+{"question":"Is the artist looking at the sneaker they have just decorated? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A student rests their chin on their hand, sketching a new concept for futuristic b9l1 sneakers in their notebook.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A student rests their chin on their hand, sketching a new concept for futuristic b9l1 sneakers in their notebook.
+{"question":"Is the student resting their chin on one hand in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A student rests their chin on their hand, sketching a new concept for futuristic b9l1 sneakers in their notebook.
+{"question":"Is the student's hand supporting their chin while sketching sneakers? Please just answer yes or no.","Correct Answer":"Yes"}
