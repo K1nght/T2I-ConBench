@@ -38,7 +38,7 @@ ${PATH_TO_DATA}
 │   ├─inference_results
 │   │  ├─comp
 │   │  ├─cross
-│   │  └──...
+│   │  └─fid
 │   ├─item
 │   ├─domain
 │   └─train_results
@@ -51,11 +51,19 @@ We use `seqft` as an example to demonstrate how to run the evaluation scripts.
 The input image files used for evaluation have the following structure:
 
 ```
-fid
+inference_results
 └─seqft
 │   ├─items
-│   ├─nature-body
-│   └─nature-body-items
+│   │  ├─0_p0h1_dog_dog
+│   │  ├─1_k5f2_dog_dog3
+│   │  ├─1_p0h1_dog_dog
+│   │  └──...
+│   ├─items-nature-body
+│   │  ├─3_b9l1_sneaker_shiny_sneaker
+│   │  ├─3_k5f2_dog_dog3
+│   │  ├─3_p0h1_dog_dog
+│   │  └──...
+│   └──...
 └──...
 ```
 
@@ -73,7 +81,7 @@ We use [T2I-CompBench](https://github.com/Karine-Huang/T2I-CompBench) 3-in-1 for
 The input image files used for evaluation have the following structure:
 
 ```
-item
+inference_results
 └─seqft
 │   ├─items
 │   │  ├─0_p0h1_dog_dog
@@ -101,20 +109,21 @@ The output files are formatted as a json file and a txt file named "result.json"
 The input image files used for evaluation have the following structure:
 
 ```
-domain
+inference_results
 └─seqft
-│   ├─nature
+│   ├─domain
 │   │  ├─nature
-│   │  ├─body
-│   ├─nature-body 
-│   │  ├─nature
-│   │  ├─body
-│   ├─items-nature-body
-│   │  ├─nature
-│   │  ├─body
-│   ├─nature-body-items 
-│   │  ├─nature
-│   │  ├─body
+│   │  │  ├─nature
+│   │  │  ├─body
+│   │  ├─nature-body 
+│   │  │  ├─nature
+│   │  │  ├─body
+│   │  ├─items-nature-body
+│   │  │  ├─nature
+│   │  │  ├─body
+│   │  ├─nature-body-items 
+│   │  │  ├─nature
+│   │  │  ├─body
 └──...
 ```
 
@@ -130,34 +139,25 @@ The output files are formatted as two txt files for average HPS records and two 
 The input image files used for evaluation have the following structure:
 
 ```
-cross
-└─seqft
-│   ├─items
-│   │  └─item+item
-│   ├─items-nature-body
-│   │  ├─domain+domain
-│   │  ├─item+body
-│   │  ├─item+item
-│   │  └─item+nature
-│   ├─nature-body-items
-│   │  ├─domain+domain
-│   │  ├─item+body
-│   │  ├─item+item
-│   │  └─item+nature
-│   └─nature-body
-│       └─domain+domain
+inference_results
+└─cross
+│   └─seqft
+│       ├─items
+│       │  └─item+item
+│       ├─items-nature-body
+│       │  ├─domain+domain
+│       │  ├─item+body
+│       │  ├─item+item
+│       │  └─item+nature
+│       ├─nature-body-items
+│       │  ├─domain+domain
+│       │  ├─item+body
+│       │  ├─item+item
+│       │  └─item+nature
+│       └─nature-body
+│           └─domain+domain
 └──...
 ```
 
 To run the Cross-task Generalization evaluation, you can use the following command:
 ```
-bash run/cross.sh
-```
-
-The output files are formatted as a json file and a txt file named "result.json", "result.txt" in output folder.
-
-## Acknowledgements
-We would like to thank the following repositories:
-- [T2I-Benchmark](https://github.com/boomb0om/text2image-benchmark)
-- [HPS](https://github.com/lucidrains/hpsv2)
-- [Qwen2.5-VL](https://github.com/QwenLM/Qwen2.5-VL)
