@@ -1,3 +1,3 @@
-export HF_ENDPOINT="https://hf-mirror.com" 
+export PATH_TO_DATA="your/path/to/data"
 
-python scripts/process_domain.py
+python scripts/process_domain.py --save_dir ${PATH_TO_DATA}/domain

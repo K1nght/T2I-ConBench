@@ -4,6 +4,13 @@ import json
 from PIL import Image
 import io
 from tqdm import tqdm
+import argparse
+
+# Add argument parser
+parser = argparse.ArgumentParser(description='Process T2I-ConBench dataset')
+parser.add_argument('--save_dir', type=str, required=True,
+                    help='Base directory to save processed data')
+args = parser.parse_args()
 
 dataset = load_dataset(
     "T2I-ConBench/T2I-ConBench", 
@@ -20,54 +27,54 @@ save_dir = [
     ("nature_replay", 251),
 ]
 
-# 创建基础保存目录
-base_save_dir = "/opt/data/private/hzhcode/T2I-ConBench-data/domain"
+# Create base save directory
+base_save_dir = args.save_dir
 os.makedirs(base_save_dir, exist_ok=True)
-# 创建data_info目录
+# Create data_info directory
 data_info_dir = os.path.join(base_save_dir, "data_info")
 os.makedirs(data_info_dir, exist_ok=True)
 
-# 计算总样本数
+# Calculate total number of samples
 total_samples = sum(num for _, num in save_dir)
 print(f"Total samples to process: {total_samples}")
 
-# 创建总进度条
+# Create total progress bar
 pbar = tqdm(total=total_samples, desc="Total Progress")
 
-# 处理每个domain的数据
+# Process each domain's data
 current_idx = 0
 
 for domain, num_samples in save_dir:
     print(f"\nProcessing domain: {domain}")
     
-    # 创建domain目录和图片子目录
+    # Create domain directory and image subdirectory
     domain_dir = os.path.join(base_save_dir, domain)
     img_dir = os.path.join(domain_dir, "Img")
     os.makedirs(img_dir, exist_ok=True)
     
-    # 准备存储prompts的列表
+    # Prepare list to store prompts
     prompts_list = []
     
-    # 创建domain级别的进度条
+    # Create domain-level progress bar
     domain_pbar = tqdm(total=num_samples, desc=f"{domain}", leave=False)
     
-    # 保存指定数量的样本
+    # Save specified number of samples
     for i in range(num_samples):
         sample = dataset["train"][current_idx + i]
         
-        # 保存图片
+        # Save image
         image_data = sample["image"]
-        if isinstance(image_data, dict):  # 如果image是字典格式（包含bytes）
+        if isinstance(image_data, dict):  # If image is in dictionary format (contains bytes)
             image = Image.open(io.BytesIO(image_data["bytes"]))
-        elif isinstance(image_data, (bytes, bytearray)):  # 如果是原始字节数据
+        elif isinstance(image_data, (bytes, bytearray)):  # If it's raw byte data
             image = Image.open(io.BytesIO(image_data))
-        else:  # 如果已经是PIL Image对象
+        else:  # If it's already a PIL Image object
             image = image_data
             
         image_path = os.path.join(img_dir, f"{i:08d}.png")
         image.save(image_path)
         
-        # 存储prompt信息
+        # Store prompt information
         prompt_info = {
             "path": os.path.join(domain_dir, "Img", f"{i:08d}.png"),
             "prompt": sample["prompt"],
@@ -75,23 +82,23 @@ for domain, num_samples in save_dir:
         }
         prompts_list.append(prompt_info)
         
-        # 更新进度条
+        # Update progress bars
         pbar.update(1)
         domain_pbar.update(1)
     
-    # 关闭domain进度条
+    # Close domain progress bar
     domain_pbar.close()
     
-    # 保存prompts到json文件
+    # Save prompts to json file
     json_path = os.path.join(data_info_dir, f"{domain}.json")
     with open(json_path, 'w', encoding='utf-8') as f:
         json.dump(prompts_list, f, ensure_ascii=False, indent=2)
     
-    # 更新当前索引
+    # Update current index
     current_idx += num_samples
     print(f"Completed {domain}: {num_samples} samples")
 
-# 关闭总进度条
+# Close total progress bar
 pbar.close()
 
 print("\nAll processing completed!")

@@ -45,34 +45,46 @@ pip install -r requirements.txt
    ```
    Extracts T5 text features of domain dataset.
 
+The final dataset structure is as follows:
+```bash
+your/path/to/data/
+├── domain
+│ ├── data_info
+│ ├── nature
+│ ├── body
+│ ├── cross
+│ └── ...
+├── item
+│ ├── dog
+│ ├── dog_prior_images
+│ └── ...
+```
 ## 🔥 Training and Generation
 
 ### Sequential Item Customization Training
-1. Sequential Training
-   ```bash
-   bash run/run_item.sh
-   ```
-
-2. Generate Inference Images
-   - Generate images using the trained item-based model
+```bash
+bash run/run_item.sh
+```
 
 ### Sequential Domain Enhancement Training
-1. Sequential Training
-   ```bash
-   bash run/run_domain.sh
-   ```
 
-2. Generate Inference Images
-   - Generate images using the trained domain-based model
+```bash
+bash run/run_domain.sh
+```
 
-### Sequential Item-Domain Adaptation Training
-1. Sequential Training
-   ```bash
-   bash run/run_item-domain.sh
-   ```
+### Sequential Item-Domain Adaptation 
 
-2. Generate Inference Images
-   - Generate images using the combined model
+```bash
+bash run/run_item-domain.sh
+```
+
+### Generate Images for Evaluation
+
+We use `seqft` as an example to demonstrate how to run the inference scripts.
+
+```bash
+bash run/run_inference.sh
+```
 
 ## Acknowledgements
 We would like to thank the following repositories:

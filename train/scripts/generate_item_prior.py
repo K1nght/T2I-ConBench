@@ -8,63 +8,63 @@ from tqdm import tqdm
 from diffusers import PixArtAlphaPipeline, Transformer2DModel
 
 
-# 添加命令行参数解析
+# Add command line argument parsing
 def parse_args():
-    parser = argparse.ArgumentParser(description="运行 PixArtAlpha 推理")
+    parser = argparse.ArgumentParser(description="Run PixArtAlpha inference")
     parser.add_argument(
         "--pretrained_model_name_or_path",
         type=str,
         required=True,
-        help="预训练模型的路径或Hugging Face模型ID"
+        help="Path to pretrained model or Hugging Face model ID"
     )
     parser.add_argument(
         "--transformer_path",
         type=str,
         required=True,
-        help="transformer模型路径"
+        help="Path to transformer model"
     )
     parser.add_argument(
         "--validation_prompt",
         type=str,
         default="a photo of an astronaut riding a horse on mars",
-        help="用于生成图像的提示词"
+        help="Prompt for image generation"
     )
     parser.add_argument(
         "--output_dir",
         type=str,
         default="outputs",
-        help="保存生成图像的目录"
+        help="Directory to save generated images"
     )
     parser.add_argument(
         "--seed",
         type=int,
         default=None,
-        help="随机种子，用于可复现的结果"
+        help="Random seed for reproducible results"
     )
     parser.add_argument(
         "--num_prior",
         type=int,
         default=1,
-        help="为每个提示词生成的图像数量"
+        help="Number of images to generate per prompt"
     )
     parser.add_argument(
         "--device",
         type=str,
         default="cuda" if torch.cuda.is_available() else "cpu",
-        help="运行推理的设备 (cuda, cpu, mps)"
+        help="Device to run inference on (cuda, cpu, mps)"
     )
     parser.add_argument(
         "--fp16",
         action="store_true",
-        help="是否使用半精度推理"
+        help="Whether to use half-precision inference"
     )
     return parser.parse_args()
 
-# 主程序
+# Main program
 def main():
     args = parse_args()
     
-    # 设置设备和权重类型
+    # Set device and weight type
     device = args.device
     weight_dtype = torch.float16 if args.fp16 else torch.float32
 
@@ -79,41 +79,41 @@ def main():
     )
     pipeline = pipeline.to(device)
 
-    # 检查并创建输出目录
+    # Check and create output directory
     if not hasattr(args, 'output_dir'):
         args.output_dir = 'outputs'
     os.makedirs(args.output_dir, exist_ok=True)
-    print(f"将图片保存到目录: {args.output_dir}")
+    print(f"Saving images to directory: {args.output_dir}")
 
-    # 使用单个提示词
+    # Use single prompt
     prompt = args.validation_prompt
-    print(f"使用提示词: '{prompt}'")
+    print(f"Using prompt: '{prompt}'")
 
-    # 运行推理
+    # Run inference
     generator = None if args.seed is None else torch.Generator(device=device).manual_seed(args.seed)
     images = []
     
-    # 为单个提示词生成num_prior张图片
-    for j in tqdm(range(args.num_prior), desc="生成图片", total=args.num_prior):
-        # 记录开始时间
+    # Generate num_prior images for single prompt
+    for j in tqdm(range(args.num_prior), desc="Generating images", total=args.num_prior):
+        # Record start time
         start_time = time.time()
         
-        # 生成图片
+        # Generate image
         pipeline_args = {"prompt": prompt}
         image = pipeline(**pipeline_args, num_inference_steps=25, generator=generator).images[0]
         images.append(image)
         
-        # 计算生成时间
+        # Calculate generation time
         generation_time = time.time() - start_time
-        print(f"图片 {j+1}/{args.num_prior} 生成完成，提示词: '{prompt}'，耗时: {generation_time:.2f}秒")
+        print(f"Image {j+1}/{args.num_prior} generated, prompt: '{prompt}', time taken: {generation_time:.2f} seconds")
         
-        # 保存图片
+        # Save image
         timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-        # 使用提示词的前50个字符作为文件名（避免文件名过长）
+        # Use first 50 characters of prompt as filename (to avoid long filenames)
         filename = f"{j}_{prompt[:50]}_{timestamp}.png"
         image_path = os.path.join(args.output_dir, filename)
         image.save(image_path)
-        print(f"图片已保存到: {image_path}")
+        print(f"Image saved to: {image_path}")
 
 if __name__ == "__main__":
     main()

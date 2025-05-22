@@ -1,6 +1,6 @@
-export MODEL_NAME="/opt/data/private/hzhcode/huggingface/models/PixArt-alpha/PixArt-XL-2-512x512"
+export MODEL_NAME="PixArt-alpha/PixArt-XL-2-512x512"
 
-# 定义所有需要处理的数据集
+# Define all datasets to be processed
 datasets=(
     "body"
     "cross"
@@ -12,11 +12,13 @@ datasets=(
     "dreambooth"
 )
 
-# 循环处理每个数据集
+export PATH_TO_DATA="your/path/to/data"
+
+# Process each dataset in a loop
 for dataset in "${datasets[@]}"; do
-    dir="/opt/data/private/hzhcode/T2I-ConBench-data/domain/${dataset}"
+    dir="${PATH_TO_DATA}/domain/${dataset}"
     CUDA_VISIBLE_DEVICES=0,1 python scripts/extract_t5_features.py \
-        --json_path "/opt/data/private/hzhcode/T2I-ConBench-data/domain/data_info/${dataset}.json" \
+        --json_path "${PATH_TO_DATA}/domain/data_info/${dataset}.json" \
         --pretrained_model_name_or_path $MODEL_NAME \
         --t5_save_root "$dir/caption_feature"
 done

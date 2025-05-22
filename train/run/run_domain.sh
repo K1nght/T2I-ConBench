@@ -1,4 +1,4 @@
-# 定义所有需要运行的脚本
+# Define all scripts that need to be run
 scripts=(
     "domain/domain_seqft.sh"
     "domain/domain_hft.sh"
@@ -7,9 +7,13 @@ scripts=(
     "domain/domain_ewc.sh"
     "domain/domain_l2norm.sh"
     "domain/domain_joint.sh"
+    "domain/domain_seqlora.sh"
+    "domain/domain_inclora.sh"
+    "domain/domain_clora.sh"
+    "domain/domain_olora.sh"
 )
 
-# 循环执行每个脚本
+# Loop through and execute each script
 for script in "${scripts[@]}"; do
     bash "run/$script"
 done

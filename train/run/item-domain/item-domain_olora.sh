@@ -1,21 +1,21 @@
 #!/bin/bash
-
+export PATH_TO_DATA="your/path/to/data"
 # nature-body-items
-export MODEL_NAME="/opt/data/private/hzhcode/huggingface/models/PixArt-alpha/PixArt-XL-2-512x512"
-export TRANSFORMER_PATH="/opt/data/private/hzhcode/T2I-ConBench-data/train_results/olora/nature-body/run/transformer-320"
-export INSTANCE_DIR1="/opt/data/private/hzhcode/T2I-ConBench-data/item/dog"
-export INSTANCE_DIR2="/opt/data/private/hzhcode/T2I-ConBench-data/item/dog3"
-export INSTANCE_DIR3="/opt/data/private/hzhcode/T2I-ConBench-data/item/cat2"
-export INSTANCE_DIR4="/opt/data/private/hzhcode/T2I-ConBench-data/item/shiny_sneaker"
-export CLASS_DIR1="/opt/data/private/hzhcode/T2I-ConBench-data/item/dog_prior_images"
-export CLASS_DIR2="/opt/data/private/hzhcode/T2I-ConBench-data/item/cat_prior_images"
-export CLASS_DIR3="/opt/data/private/hzhcode/T2I-ConBench-data/item/sneaker_prior_images"
-export OUTPUT_DIR="/opt/data/private/hzhcode/T2I-ConBench-data/train_results/olora/nature-body-items"
+export MODEL_NAME="PixArt-alpha/PixArt-XL-2-512x512"
+export TRANSFORMER_PATH="${PATH_TO_DATA}/train_results/olora/nature-body/run/transformer-96000"
+export INSTANCE_DIR1="${PATH_TO_DATA}/item/dog"
+export INSTANCE_DIR2="${PATH_TO_DATA}/item/dog3"
+export INSTANCE_DIR3="${PATH_TO_DATA}/item/cat2"
+export INSTANCE_DIR4="${PATH_TO_DATA}/item/shiny_sneaker"
+export CLASS_DIR1="${PATH_TO_DATA}/item/dog_prior_images"
+export CLASS_DIR2="${PATH_TO_DATA}/item/cat_prior_images"
+export CLASS_DIR3="${PATH_TO_DATA}/item/sneaker_prior_images"
+export OUTPUT_DIR="${PATH_TO_DATA}/train_results/olora/nature-body-items"
 
 # Run with DeepSpeed
 deepspeed --num_gpus=2 \
   train_scripts/item/train_pixart_lora.py \
-  --deepspeed /opt/data/private/hzhcode/T2I-ConBench/train/ds_config/item.json \
+  --deepspeed ds_config/item.json \
   --pretrained_model_name_or_path=$MODEL_NAME \
   --load_transformer_path=$TRANSFORMER_PATH \
   --instance_data_dirs="${INSTANCE_DIR1},${INSTANCE_DIR2},${INSTANCE_DIR3},${INSTANCE_DIR4}" \
@@ -32,7 +32,7 @@ deepspeed --num_gpus=2 \
   --learning_rate=5e-6 \
   --lr_scheduler="constant" \
   --lr_warmup_steps=0 \
-  --max_train_steps=10 \
+  --max_train_steps=500 \
   --pre_compute_text_embeddings \
   --seed="0" \
   --mixed_precision="fp16" \
@@ -42,15 +42,14 @@ deepspeed --num_gpus=2 \
   --lamda 1e-1
 
 # items-nature-body
-export MODEL_NAME="/opt/data/private/hzhcode/huggingface/models/PixArt-alpha/PixArt-XL-2-512x512"
-export TRANSFORMER_PATH="/opt/data/private/hzhcode/T2I-ConBench-data/train_results/olora/items/run/3/transformer"
-export DATA_DIR="/opt/data/private/hzhcode/T2I-ConBench-data/domain/data_info"
-export OUTPUT_DIR="/opt/data/private/hzhcode/T2I-ConBench-data/train_results/olora/items-nature"
+export TRANSFORMER_PATH="${PATH_TO_DATA}/train_results/olora/items/run/3/transformer"
+export DATA_DIR="${PATH_TO_DATA}/domain/data_info"
+export OUTPUT_DIR="${PATH_TO_DATA}/train_results/olora/items-nature"
 
 # Run with DeepSpeed
 deepspeed --num_gpus=2 \
   train_scripts/domain/train_pixart_lora.py \
-  --deepspeed /opt/data/private/hzhcode/T2I-ConBench/train/ds_config/domain.json \
+  --deepspeed ds_config/domain.json \
   --pretrained_model_name_or_path=$MODEL_NAME \
   --load_transformer_path=$TRANSFORMER_PATH \
   --data_dir=$DATA_DIR \
@@ -62,8 +61,8 @@ deepspeed --num_gpus=2 \
   --learning_rate=5e-6 \
   --lr_scheduler="constant" \
   --lr_warmup_steps=0 \
-  --max_train_steps=320 \
-  --checkpointing_steps=320 \
+  --max_train_steps=96000 \
+  --checkpointing_steps=32000 \
   --pre_compute_text_embeddings \
   --seed="0" \
   --mixed_precision="fp16" \
@@ -74,13 +73,13 @@ deepspeed --num_gpus=2 \
 
 sleep 5
 
-export TRANSFORMER_PATH="/opt/data/private/hzhcode/T2I-ConBench-data/train_results/olora/items-nature/run/transformer-320"
-export OUTPUT_DIR="/opt/data/private/hzhcode/T2I-ConBench-data/train_results/olora/items-nature-body"
+export TRANSFORMER_PATH="${PATH_TO_DATA}/train_results/olora/items-nature/run/transformer-96000"
+export OUTPUT_DIR="${PATH_TO_DATA}/train_results/olora/items-nature-body"
 
 # Run with DeepSpeed
 deepspeed --num_gpus=2 \
   train_scripts/domain/train_pixart_lora.py \
-  --deepspeed /opt/data/private/hzhcode/T2I-ConBench/train/ds_config/domain.json \
+  --deepspeed ds_config/domain.json \
   --pretrained_model_name_or_path=$MODEL_NAME \
   --load_transformer_path=$TRANSFORMER_PATH \
   --data_dir=$DATA_DIR \
@@ -92,8 +91,8 @@ deepspeed --num_gpus=2 \
   --learning_rate=5e-6 \
   --lr_scheduler="constant" \
   --lr_warmup_steps=0 \
-  --max_train_steps=320 \
-  --checkpointing_steps=320 \
+  --max_train_steps=96000 \
+  --checkpointing_steps=32000 \
   --pre_compute_text_embeddings \
   --seed="0" \
   --mixed_precision="fp16" \
