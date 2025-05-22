@@ -1,0 +1,720 @@
+Prompt: A photo of k5f2 dog and p0h1 dog running through a sunlit meadow.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of k5f2 dog and p0h1 dog running through a sunlit meadow.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of k5f2 dog and p0h1 dog running through a sunlit meadow.
+{"question":"Are the dogs running in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of p0h1 dog and k5f2 dog playing in a blooming flower field.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of p0h1 dog and k5f2 dog playing in a blooming flower field.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of p0h1 dog and k5f2 dog playing in a blooming flower field.
+{"question":"Are the dogs playing in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of p0h1 dog and k5f2 dog walking along a cobblestone street in an old town.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of p0h1 dog and k5f2 dog walking along a cobblestone street in an old town.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of p0h1 dog and k5f2 dog walking along a cobblestone street in an old town.
+{"question":"Are the dogs walking on a cobblestone street in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A scene of p0h1 dog and k5f2 dog splashing in a crystal-clear mountain lake.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A scene of p0h1 dog and k5f2 dog splashing in a crystal-clear mountain lake.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A scene of p0h1 dog and k5f2 dog splashing in a crystal-clear mountain lake.
+{"question":"Are the dogs splashing in the lake in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of k5f2 dog and p0h1 dog resting near a rustic wooden cabin in the forest.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of k5f2 dog and p0h1 dog resting near a rustic wooden cabin in the forest.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of k5f2 dog and p0h1 dog resting near a rustic wooden cabin in the forest.
+{"question":"Are the dogs resting near a cabin in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of k5f2 dog and p0h1 dog chasing each other across a golden wheat field at sunset.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of k5f2 dog and p0h1 dog chasing each other across a golden wheat field at sunset.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of k5f2 dog and p0h1 dog chasing each other across a golden wheat field at sunset.
+{"question":"Are the dogs chasing each other in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of k5f2 dog and p0h1 dog lying on a cozy rug in a modern living room.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of k5f2 dog and p0h1 dog lying on a cozy rug in a modern living room.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of k5f2 dog and p0h1 dog lying on a cozy rug in a modern living room.
+{"question":"Are the dogs lying on a rug in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A scene of p0h1 dog and k5f2 dog sniffing around a foggy autumn forest.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A scene of p0h1 dog and k5f2 dog sniffing around a foggy autumn forest.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A scene of p0h1 dog and k5f2 dog sniffing around a foggy autumn forest.
+{"question":"Are the dogs sniffing around in the forest in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of k5f2 dog and p0h1 dog sitting under a cherry blossom tree in full bloom.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of k5f2 dog and p0h1 dog sitting under a cherry blossom tree in full bloom.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of k5f2 dog and p0h1 dog sitting under a cherry blossom tree in full bloom.
+{"question":"Are the dogs sitting under a cherry blossom tree in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: An image of k5f2 dog and p0h1 dog standing on a rocky cliff overlooking the ocean.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: An image of k5f2 dog and p0h1 dog standing on a rocky cliff overlooking the ocean.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: An image of k5f2 dog and p0h1 dog standing on a rocky cliff overlooking the ocean.
+{"question":"Are the dogs standing on a rocky cliff in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of p0h1 dog and k5f2 dog running through a snow-covered backyard.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of p0h1 dog and k5f2 dog running through a snow-covered backyard.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of p0h1 dog and k5f2 dog running through a snow-covered backyard.
+{"question":"Are the dogs running in the backyard in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of p0h1 dog and k5f2 dog relaxing near a crackling fireplace in a log cabin.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of p0h1 dog and k5f2 dog relaxing near a crackling fireplace in a log cabin.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of p0h1 dog and k5f2 dog relaxing near a crackling fireplace in a log cabin.
+{"question":"Are the dogs relaxing near a fireplace in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of k5f2 dog and p0h1 dog sitting on a wooden pier by a peaceful lake.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of k5f2 dog and p0h1 dog sitting on a wooden pier by a peaceful lake.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of k5f2 dog and p0h1 dog sitting on a wooden pier by a peaceful lake.
+{"question":"Are the dogs sitting on a wooden pier in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of p0h1 dog and k5f2 dog exploring a deserted sandy beach.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of p0h1 dog and k5f2 dog exploring a deserted sandy beach.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of p0h1 dog and k5f2 dog exploring a deserted sandy beach.
+{"question":"Are the dogs exploring the beach in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A scene of p0h1 dog and k5f2 dog lying on the grass under a clear night sky in the countryside.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A scene of p0h1 dog and k5f2 dog lying on the grass under a clear night sky in the countryside.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A scene of p0h1 dog and k5f2 dog lying on the grass under a clear night sky in the countryside.
+{"question":"Are the dogs lying on the grass in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of p0h1 dog and k5f2 dog playing in a sunlit greenhouse surrounded by plants.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of p0h1 dog and k5f2 dog playing in a sunlit greenhouse surrounded by plants.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of p0h1 dog and k5f2 dog playing in a sunlit greenhouse surrounded by plants.
+{"question":"Are the dogs playing in a greenhouse in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of k5f2 dog and p0h1 dog running on a farmyard with rolling green hills.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of k5f2 dog and p0h1 dog running on a farmyard with rolling green hills.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of k5f2 dog and p0h1 dog running on a farmyard with rolling green hills.
+{"question":"Are the dogs running on the farmyard in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of k5f2 dog and p0h1 dog resting in a city park on a bright summer day.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of k5f2 dog and p0h1 dog resting in a city park on a bright summer day.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of k5f2 dog and p0h1 dog resting in a city park on a bright summer day.
+{"question":"Are the dogs resting in the park in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of k5f2 dog and p0h1 dog standing near a sparkling waterfall in the jungle.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of k5f2 dog and p0h1 dog standing near a sparkling waterfall in the jungle.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of k5f2 dog and p0h1 dog standing near a sparkling waterfall in the jungle.
+{"question":"Are the dogs standing near a waterfall in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A scene of k5f2 dog and p0h1 dog playing on a balcony overlooking a bustling cityscape.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A scene of k5f2 dog and p0h1 dog playing on a balcony overlooking a bustling cityscape.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A scene of k5f2 dog and p0h1 dog playing on a balcony overlooking a bustling cityscape.
+{"question":"Are the dogs playing on a balcony in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of s5g3 cat and p0h1 dog lying in a sunlit meadow.
+{"question":"Is there a s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of s5g3 cat and p0h1 dog lying in a sunlit meadow.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of s5g3 cat and p0h1 dog lying in a sunlit meadow.
+{"question":"Are the animals lying in the meadow in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of s5g3 cat and p0h1 dog playing in a blooming flower field.
+{"question":"Is there a s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of s5g3 cat and p0h1 dog playing in a blooming flower field.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of s5g3 cat and p0h1 dog playing in a blooming flower field.
+{"question":"Are the animals playing in the flower field in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of p0h1 dog and s5g3 cat sitting together on a cobblestone street in an old town.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of p0h1 dog and s5g3 cat sitting together on a cobblestone street in an old town.
+{"question":"Is there a s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of p0h1 dog and s5g3 cat sitting together on a cobblestone street in an old town.
+{"question":"Are the animals sitting on a cobblestone street in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of s5g3 cat and p0h1 dog drinking water from a crystal-clear mountain lake.
+{"question":"Is there a s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of s5g3 cat and p0h1 dog drinking water from a crystal-clear mountain lake.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of s5g3 cat and p0h1 dog drinking water from a crystal-clear mountain lake.
+{"question":"Are the animals drinking water in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A scene of s5g3 cat and p0h1 dog resting near a rustic wooden cabin in the forest.
+{"question":"Is there a s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A scene of s5g3 cat and p0h1 dog resting near a rustic wooden cabin in the forest.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A scene of s5g3 cat and p0h1 dog resting near a rustic wooden cabin in the forest.
+{"question":"Are the animals resting near a cabin in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of s5g3 cat and p0h1 dog chasing each other through a golden wheat field at sunset.
+{"question":"Is there a s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of s5g3 cat and p0h1 dog chasing each other through a golden wheat field at sunset.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of s5g3 cat and p0h1 dog chasing each other through a golden wheat field at sunset.
+{"question":"Are the animals chasing each other in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of p0h1 dog and s5g3 cat relaxing on a cozy rug in a modern living room.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of p0h1 dog and s5g3 cat relaxing on a cozy rug in a modern living room.
+{"question":"Is there a s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of p0h1 dog and s5g3 cat relaxing on a cozy rug in a modern living room.
+{"question":"Are the animals relaxing on a rug in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of s5g3 cat and p0h1 dog walking through a foggy autumn forest.
+{"question":"Is there a s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of s5g3 cat and p0h1 dog walking through a foggy autumn forest.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of s5g3 cat and p0h1 dog walking through a foggy autumn forest.
+{"question":"Are the animals walking in the foggy forest in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of p0h1 dog and s5g3 cat sitting under a cherry blossom tree in full bloom.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of p0h1 dog and s5g3 cat sitting under a cherry blossom tree in full bloom.
+{"question":"Is there a s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of p0h1 dog and s5g3 cat sitting under a cherry blossom tree in full bloom.
+{"question":"Are the animals sitting under a cherry blossom tree in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: An image of p0h1 dog and s5g3 cat standing on a rocky cliff overlooking the ocean.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: An image of p0h1 dog and s5g3 cat standing on a rocky cliff overlooking the ocean.
+{"question":"Is there a s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: An image of p0h1 dog and s5g3 cat standing on a rocky cliff overlooking the ocean.
+{"question":"Are the animals standing on a rocky cliff in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of s5g3 cat and p0h1 dog playing in a snow-covered backyard.
+{"question":"Is there a s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of s5g3 cat and p0h1 dog playing in a snow-covered backyard.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of s5g3 cat and p0h1 dog playing in a snow-covered backyard.
+{"question":"Are the animals playing in the backyard in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of s5g3 cat and p0h1 dog snuggling near a crackling fireplace in a log cabin.
+{"question":"Is there a s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of s5g3 cat and p0h1 dog snuggling near a crackling fireplace in a log cabin.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of s5g3 cat and p0h1 dog snuggling near a crackling fireplace in a log cabin.
+{"question":"Are the animals snuggling near a fireplace in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of s5g3 cat and p0h1 dog sitting on a wooden pier by a peaceful lake.
+{"question":"Is there a s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of s5g3 cat and p0h1 dog sitting on a wooden pier by a peaceful lake.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of s5g3 cat and p0h1 dog sitting on a wooden pier by a peaceful lake.
+{"question":"Are the animals sitting on a wooden pier in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of p0h1 dog and s5g3 cat exploring a deserted sandy beach.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of p0h1 dog and s5g3 cat exploring a deserted sandy beach.
+{"question":"Is there a s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of p0h1 dog and s5g3 cat exploring a deserted sandy beach.
+{"question":"Are the animals exploring a sandy beach in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of s5g3 cat and p0h1 dog stargazing under a clear night sky in the countryside.
+{"question":"Is there a s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of s5g3 cat and p0h1 dog stargazing under a clear night sky in the countryside.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of s5g3 cat and p0h1 dog stargazing under a clear night sky in the countryside.
+{"question":"Are the animals stargazing in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A scene of p0h1 dog and s5g3 cat playing in a sunlit greenhouse surrounded by plants.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A scene of p0h1 dog and s5g3 cat playing in a sunlit greenhouse surrounded by plants.
+{"question":"Is there a s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A scene of p0h1 dog and s5g3 cat playing in a sunlit greenhouse surrounded by plants.
+{"question":"Are the animals playing in a greenhouse in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of p0h1 dog and s5g3 cat walking in a farmyard with rolling green hills.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of p0h1 dog and s5g3 cat walking in a farmyard with rolling green hills.
+{"question":"Is there a s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of p0h1 dog and s5g3 cat walking in a farmyard with rolling green hills.
+{"question":"Are the animals walking in a farmyard in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of s5g3 cat and p0h1 dog lying together in a city park on a bright summer day.
+{"question":"Is there a s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of s5g3 cat and p0h1 dog lying together in a city park on a bright summer day.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of s5g3 cat and p0h1 dog lying together in a city park on a bright summer day.
+{"question":"Are the animals lying together in a city park in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of s5g3 cat and p0h1 dog resting near a sparkling waterfall in the jungle.
+{"question":"Is there a s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of s5g3 cat and p0h1 dog resting near a sparkling waterfall in the jungle.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of s5g3 cat and p0h1 dog resting near a sparkling waterfall in the jungle.
+{"question":"Are the animals resting near a waterfall in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of s5g3 cat and p0h1 dog sitting on a balcony overlooking a bustling cityscape.
+{"question":"Is there a s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of s5g3 cat and p0h1 dog sitting on a balcony overlooking a bustling cityscape.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of s5g3 cat and p0h1 dog sitting on a balcony overlooking a bustling cityscape.
+{"question":"Are the animals sitting on a balcony in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of p0h1 dog carrying b9l1 sneaker across a sunlit meadow.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of p0h1 dog carrying b9l1 sneaker across a sunlit meadow.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of p0h1 dog carrying b9l1 sneaker across a sunlit meadow.
+{"question":"Is the dog carrying the sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of p0h1 dog sniffing b9l1 sneaker in a blooming flower field.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of p0h1 dog sniffing b9l1 sneaker in a blooming flower field.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of p0h1 dog sniffing b9l1 sneaker in a blooming flower field.
+{"question":"Is the dog sniffing the sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A scene of p0h1 dog holding b9l1 sneaker on a cobblestone street in an old town.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A scene of p0h1 dog holding b9l1 sneaker on a cobblestone street in an old town.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A scene of p0h1 dog holding b9l1 sneaker on a cobblestone street in an old town.
+{"question":"Is the dog holding the sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of p0h1 dog playing with b9l1 sneaker near a crystal-clear mountain lake.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of p0h1 dog playing with b9l1 sneaker near a crystal-clear mountain lake.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of p0h1 dog playing with b9l1 sneaker near a crystal-clear mountain lake.
+{"question":"Is the dog playing with the sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of p0h1 dog chewing b9l1 sneaker near a rustic wooden cabin in the forest.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of p0h1 dog chewing b9l1 sneaker near a rustic wooden cabin in the forest.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of p0h1 dog chewing b9l1 sneaker near a rustic wooden cabin in the forest.
+{"question":"Is the dog chewing the sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of p0h1 dog holding b9l1 sneaker while running through a golden wheat field at sunset.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of p0h1 dog holding b9l1 sneaker while running through a golden wheat field at sunset.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of p0h1 dog holding b9l1 sneaker while running through a golden wheat field at sunset.
+{"question":"Is the dog running with the sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of p0h1 dog lying next to b9l1 sneaker on a cozy rug in a modern living room.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of p0h1 dog lying next to b9l1 sneaker on a cozy rug in a modern living room.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of p0h1 dog lying next to b9l1 sneaker on a cozy rug in a modern living room.
+{"question":"Is the dog lying next to the sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of p0h1 dog sniffing b9l1 sneaker in a foggy autumn forest.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of p0h1 dog sniffing b9l1 sneaker in a foggy autumn forest.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of p0h1 dog sniffing b9l1 sneaker in a foggy autumn forest.
+{"question":"Is the dog sniffing the sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of p0h1 dog sitting with b9l1 sneaker under a cherry blossom tree in full bloom.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of p0h1 dog sitting with b9l1 sneaker under a cherry blossom tree in full bloom.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of p0h1 dog sitting with b9l1 sneaker under a cherry blossom tree in full bloom.
+{"question":"Is the dog sitting with the sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of p0h1 dog carrying b9l1 sneaker on a rocky cliff overlooking the ocean.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of p0h1 dog carrying b9l1 sneaker on a rocky cliff overlooking the ocean.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of p0h1 dog carrying b9l1 sneaker on a rocky cliff overlooking the ocean.
+{"question":"Is the dog carrying the sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of p0h1 dog playing with b9l1 sneaker in a snow-covered backyard.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of p0h1 dog playing with b9l1 sneaker in a snow-covered backyard.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of p0h1 dog playing with b9l1 sneaker in a snow-covered backyard.
+{"question":"Is the dog playing with the sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of p0h1 dog sniffing b9l1 sneaker near a crackling fireplace in a log cabin.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of p0h1 dog sniffing b9l1 sneaker near a crackling fireplace in a log cabin.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of p0h1 dog sniffing b9l1 sneaker near a crackling fireplace in a log cabin.
+{"question":"Is the dog sniffing the sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of p0h1 dog chewing b9l1 sneaker on a wooden pier by a peaceful lake.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of p0h1 dog chewing b9l1 sneaker on a wooden pier by a peaceful lake.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of p0h1 dog chewing b9l1 sneaker on a wooden pier by a peaceful lake.
+{"question":"Is the dog chewing the sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A scene of p0h1 dog playing with b9l1 sneaker on a deserted sandy beach.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A scene of p0h1 dog playing with b9l1 sneaker on a deserted sandy beach.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A scene of p0h1 dog playing with b9l1 sneaker on a deserted sandy beach.
+{"question":"Is the dog playing with the sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of p0h1 dog carrying b9l1 sneaker under a clear night sky in the countryside.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of p0h1 dog carrying b9l1 sneaker under a clear night sky in the countryside.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of p0h1 dog carrying b9l1 sneaker under a clear night sky in the countryside.
+{"question":"Is the dog carrying the sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of p0h1 dog lying next to b9l1 sneaker in a sunlit greenhouse surrounded by plants.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of p0h1 dog lying next to b9l1 sneaker in a sunlit greenhouse surrounded by plants.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of p0h1 dog lying next to b9l1 sneaker in a sunlit greenhouse surrounded by plants.
+{"question":"Is the dog lying next to the sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of p0h1 dog chewing b9l1 sneaker on a farmyard with rolling green hills.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of p0h1 dog chewing b9l1 sneaker on a farmyard with rolling green hills.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of p0h1 dog chewing b9l1 sneaker on a farmyard with rolling green hills.
+{"question":"Is the dog chewing the sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of p0h1 dog playing with b9l1 sneaker in a city park on a bright summer day.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of p0h1 dog playing with b9l1 sneaker in a city park on a bright summer day.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of p0h1 dog playing with b9l1 sneaker in a city park on a bright summer day.
+{"question":"Is the dog playing with the sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of p0h1 dog sniffing b9l1 sneaker near a sparkling waterfall in the jungle.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of p0h1 dog sniffing b9l1 sneaker near a sparkling waterfall in the jungle.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of p0h1 dog sniffing b9l1 sneaker near a sparkling waterfall in the jungle.
+{"question":"Is the dog sniffing the sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A scene of p0h1 dog holding b9l1 sneaker on a balcony overlooking a bustling cityscape.
+{"question":"Is there a p0h1 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A scene of p0h1 dog holding b9l1 sneaker on a balcony overlooking a bustling cityscape.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A scene of p0h1 dog holding b9l1 sneaker on a balcony overlooking a bustling cityscape.
+{"question":"Is the dog holding the sneaker on the balcony in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of s5g3 cat and k5f2 dog playing together in a sunlit meadow.
+{"question":"Is there a s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of s5g3 cat and k5f2 dog playing together in a sunlit meadow.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of s5g3 cat and k5f2 dog playing together in a sunlit meadow.
+{"question":"Are the animals playing together in the meadow in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of s5g3 cat and k5f2 dog sitting peacefully in a blooming flower field.
+{"question":"Is there a s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of s5g3 cat and k5f2 dog sitting peacefully in a blooming flower field.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of s5g3 cat and k5f2 dog sitting peacefully in a blooming flower field.
+{"question":"Are the animals sitting peacefully in the flower field in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A scene of k5f2 dog and s5g3 cat strolling along a cobblestone street in an old town.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A scene of k5f2 dog and s5g3 cat strolling along a cobblestone street in an old town.
+{"question":"Is there a s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A scene of k5f2 dog and s5g3 cat strolling along a cobblestone street in an old town.
+{"question":"Are the animals strolling on a cobblestone street in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of s5g3 cat and k5f2 dog drinking water from a crystal-clear mountain lake.
+{"question":"Is there a s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of s5g3 cat and k5f2 dog drinking water from a crystal-clear mountain lake.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of s5g3 cat and k5f2 dog drinking water from a crystal-clear mountain lake.
+{"question":"Are the animals drinking water from the lake in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of s5g3 cat and k5f2 dog resting near a rustic wooden cabin in the forest.
+{"question":"Is there a s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of s5g3 cat and k5f2 dog resting near a rustic wooden cabin in the forest.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of s5g3 cat and k5f2 dog resting near a rustic wooden cabin in the forest.
+{"question":"Are the animals resting near a cabin in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of k5f2 dog and s5g3 cat running through a golden wheat field at sunset.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of k5f2 dog and s5g3 cat running through a golden wheat field at sunset.
+{"question":"Is there a s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of k5f2 dog and s5g3 cat running through a golden wheat field at sunset.
+{"question":"Are the animals running through the wheat field in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of s5g3 cat and k5f2 dog lying together on a cozy rug in a modern living room.
+{"question":"Is there a s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of s5g3 cat and k5f2 dog lying together on a cozy rug in a modern living room.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of s5g3 cat and k5f2 dog lying together on a cozy rug in a modern living room.
+{"question":"Are the animals lying together on a rug in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A scene of k5f2 dog and s5g3 cat exploring a foggy autumn forest.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A scene of k5f2 dog and s5g3 cat exploring a foggy autumn forest.
+{"question":"Is there a s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A scene of k5f2 dog and s5g3 cat exploring a foggy autumn forest.
+{"question":"Are the animals exploring the forest in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of k5f2 dog and s5g3 cat sitting under a cherry blossom tree in full bloom.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of k5f2 dog and s5g3 cat sitting under a cherry blossom tree in full bloom.
+{"question":"Is there a s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of k5f2 dog and s5g3 cat sitting under a cherry blossom tree in full bloom.
+{"question":"Are the animals sitting under a cherry blossom tree in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of s5g3 cat and k5f2 dog standing side by side on a rocky cliff overlooking the ocean.
+{"question":"Is there a s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of s5g3 cat and k5f2 dog standing side by side on a rocky cliff overlooking the ocean.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of s5g3 cat and k5f2 dog standing side by side on a rocky cliff overlooking the ocean.
+{"question":"Are the animals standing on a rocky cliff in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of k5f2 dog and s5g3 cat playing in a snow-covered backyard.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of k5f2 dog and s5g3 cat playing in a snow-covered backyard.
+{"question":"Is there a s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of k5f2 dog and s5g3 cat playing in a snow-covered backyard.
+{"question":"Are the animals playing in the backyard in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of s5g3 cat and k5f2 dog lying near a crackling fireplace in a log cabin.
+{"question":"Is there a s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of s5g3 cat and k5f2 dog lying near a crackling fireplace in a log cabin.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of s5g3 cat and k5f2 dog lying near a crackling fireplace in a log cabin.
+{"question":"Are the animals lying near a fireplace in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of s5g3 cat and k5f2 dog sitting on a wooden pier by a peaceful lake.
+{"question":"Is there a s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of s5g3 cat and k5f2 dog sitting on a wooden pier by a peaceful lake.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of s5g3 cat and k5f2 dog sitting on a wooden pier by a peaceful lake.
+{"question":"Are the animals sitting on a wooden pier in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of s5g3 cat and k5f2 dog walking together on a deserted sandy beach.
+{"question":"Is there a s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of s5g3 cat and k5f2 dog walking together on a deserted sandy beach.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of s5g3 cat and k5f2 dog walking together on a deserted sandy beach.
+{"question":"Are the animals walking on the beach in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of k5f2 dog and s5g3 cat gazing at the stars under a clear night sky in the countryside.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of k5f2 dog and s5g3 cat gazing at the stars under a clear night sky in the countryside.
+{"question":"Is there a s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of k5f2 dog and s5g3 cat gazing at the stars under a clear night sky in the countryside.
+{"question":"Are the animals gazing at the stars in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of k5f2 dog and s5g3 cat relaxing in a sunlit greenhouse surrounded by plants.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of k5f2 dog and s5g3 cat relaxing in a sunlit greenhouse surrounded by plants.
+{"question":"Is there a s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of k5f2 dog and s5g3 cat relaxing in a sunlit greenhouse surrounded by plants.
+{"question":"Are the animals relaxing in a greenhouse in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of s5g3 cat and k5f2 dog playing on a farmyard with rolling green hills.
+{"question":"Is there a s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of s5g3 cat and k5f2 dog playing on a farmyard with rolling green hills.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of s5g3 cat and k5f2 dog playing on a farmyard with rolling green hills.
+{"question":"Are the animals playing on a farmyard in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A scene of s5g3 cat and k5f2 dog resting in a city park on a bright summer day.
+{"question":"Is there a s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A scene of s5g3 cat and k5f2 dog resting in a city park on a bright summer day.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A scene of s5g3 cat and k5f2 dog resting in a city park on a bright summer day.
+{"question":"Are the animals resting in the park in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of s5g3 cat and k5f2 dog sitting near a sparkling waterfall in the jungle.
+{"question":"Is there a s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of s5g3 cat and k5f2 dog sitting near a sparkling waterfall in the jungle.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of s5g3 cat and k5f2 dog sitting near a sparkling waterfall in the jungle.
+{"question":"Are the animals sitting near a waterfall in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of s5g3 cat and k5f2 dog lying together on a balcony overlooking a bustling cityscape.
+{"question":"Is there a s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of s5g3 cat and k5f2 dog lying together on a balcony overlooking a bustling cityscape.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of s5g3 cat and k5f2 dog lying together on a balcony overlooking a bustling cityscape.
+{"question":"Are the animals lying together on a balcony in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of k5f2 dog chewing on b9l1 sneaker in a sunlit meadow.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of k5f2 dog chewing on b9l1 sneaker in a sunlit meadow.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of k5f2 dog chewing on b9l1 sneaker in a sunlit meadow.
+{"question":"Is the dog chewing the sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of k5f2 dog playing with b9l1 sneaker in a blooming flower field.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of k5f2 dog playing with b9l1 sneaker in a blooming flower field.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of k5f2 dog playing with b9l1 sneaker in a blooming flower field.
+{"question":"Is the dog playing with the sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A scene of k5f2 dog holding b9l1 sneaker while walking on a cobblestone street in an old town.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A scene of k5f2 dog holding b9l1 sneaker while walking on a cobblestone street in an old town.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A scene of k5f2 dog holding b9l1 sneaker while walking on a cobblestone street in an old town.
+{"question":"Is the dog holding the sneaker while walking in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of k5f2 dog carrying b9l1 sneaker near a crystal-clear mountain lake.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of k5f2 dog carrying b9l1 sneaker near a crystal-clear mountain lake.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of k5f2 dog carrying b9l1 sneaker near a crystal-clear mountain lake.
+{"question":"Is the dog carrying the sneaker near the lake in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of k5f2 dog sniffing b9l1 sneaker near a rustic wooden cabin in the forest.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of k5f2 dog sniffing b9l1 sneaker near a rustic wooden cabin in the forest.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of k5f2 dog sniffing b9l1 sneaker near a rustic wooden cabin in the forest.
+{"question":"Is the dog sniffing the sneaker near the cabin in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of k5f2 dog lying next to b9l1 sneaker in a golden wheat field at sunset.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of k5f2 dog lying next to b9l1 sneaker in a golden wheat field at sunset.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of k5f2 dog lying next to b9l1 sneaker in a golden wheat field at sunset.
+{"question":"Is the dog lying next to the sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of k5f2 dog holding b9l1 sneaker on a cozy rug in a modern living room.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of k5f2 dog holding b9l1 sneaker on a cozy rug in a modern living room.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of k5f2 dog holding b9l1 sneaker on a cozy rug in a modern living room.
+{"question":"Is the dog holding the sneaker on the rug in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A scene of k5f2 dog sniffing b9l1 sneaker in a foggy autumn forest.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A scene of k5f2 dog sniffing b9l1 sneaker in a foggy autumn forest.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A scene of k5f2 dog sniffing b9l1 sneaker in a foggy autumn forest.
+{"question":"Is the dog sniffing the sneaker in the foggy forest in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of k5f2 dog sitting with b9l1 sneaker under a cherry blossom tree in full bloom.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of k5f2 dog sitting with b9l1 sneaker under a cherry blossom tree in full bloom.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of k5f2 dog sitting with b9l1 sneaker under a cherry blossom tree in full bloom.
+{"question":"Is the dog sitting with the sneaker under the tree in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of k5f2 dog carrying b9l1 sneaker on a rocky cliff overlooking the ocean.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of k5f2 dog carrying b9l1 sneaker on a rocky cliff overlooking the ocean.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of k5f2 dog carrying b9l1 sneaker on a rocky cliff overlooking the ocean.
+{"question":"Is the dog carrying the sneaker on the rocky cliff in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of k5f2 dog chewing on b9l1 sneaker in a snow-covered backyard.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of k5f2 dog chewing on b9l1 sneaker in a snow-covered backyard.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of k5f2 dog chewing on b9l1 sneaker in a snow-covered backyard.
+{"question":"Is the dog chewing the sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of k5f2 dog lying near b9l1 sneaker by a crackling fireplace in a log cabin.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of k5f2 dog lying near b9l1 sneaker by a crackling fireplace in a log cabin.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of k5f2 dog lying near b9l1 sneaker by a crackling fireplace in a log cabin.
+{"question":"Is the dog lying near the sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of k5f2 dog holding b9l1 sneaker on a wooden pier by a peaceful lake.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of k5f2 dog holding b9l1 sneaker on a wooden pier by a peaceful lake.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of k5f2 dog holding b9l1 sneaker on a wooden pier by a peaceful lake.
+{"question":"Is the dog holding the sneaker on the pier in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A scene of k5f2 dog playing with b9l1 sneaker on a deserted sandy beach.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A scene of k5f2 dog playing with b9l1 sneaker on a deserted sandy beach.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A scene of k5f2 dog playing with b9l1 sneaker on a deserted sandy beach.
+{"question":"Is the dog playing with the sneaker on the beach in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of k5f2 dog carrying b9l1 sneaker under a clear night sky in the countryside.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of k5f2 dog carrying b9l1 sneaker under a clear night sky in the countryside.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of k5f2 dog carrying b9l1 sneaker under a clear night sky in the countryside.
+{"question":"Is the dog carrying the sneaker under the night sky in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of k5f2 dog lying next to b9l1 sneaker in a sunlit greenhouse surrounded by plants.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of k5f2 dog lying next to b9l1 sneaker in a sunlit greenhouse surrounded by plants.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of k5f2 dog lying next to b9l1 sneaker in a sunlit greenhouse surrounded by plants.
+{"question":"Is the dog lying next to the sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of k5f2 dog chewing b9l1 sneaker on a farmyard with rolling green hills.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of k5f2 dog chewing b9l1 sneaker on a farmyard with rolling green hills.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of k5f2 dog chewing b9l1 sneaker on a farmyard with rolling green hills.
+{"question":"Is the dog chewing the sneaker on the farmyard in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of k5f2 dog playing with b9l1 sneaker in a city park on a bright summer day.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of k5f2 dog playing with b9l1 sneaker in a city park on a bright summer day.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of k5f2 dog playing with b9l1 sneaker in a city park on a bright summer day.
+{"question":"Is the dog playing with the sneaker in the park in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of k5f2 dog sniffing b9l1 sneaker near a sparkling waterfall in the jungle.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of k5f2 dog sniffing b9l1 sneaker near a sparkling waterfall in the jungle.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of k5f2 dog sniffing b9l1 sneaker near a sparkling waterfall in the jungle.
+{"question":"Is the dog sniffing the sneaker near the waterfall in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A scene of k5f2 dog holding b9l1 sneaker on a balcony overlooking a bustling cityscape.
+{"question":"Is there a k5f2 dog in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A scene of k5f2 dog holding b9l1 sneaker on a balcony overlooking a bustling cityscape.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A scene of k5f2 dog holding b9l1 sneaker on a balcony overlooking a bustling cityscape.
+{"question":"Is the dog holding the sneaker on the balcony in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of s5g3 cat playing with b9l1 sneaker in a sunlit meadow.
+{"question":"Is there a s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of s5g3 cat playing with b9l1 sneaker in a sunlit meadow.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of s5g3 cat playing with b9l1 sneaker in a sunlit meadow.
+{"question":"Is the cat playing with the sneaker in the meadow in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of s5g3 cat sniffing b9l1 sneaker in a blooming flower field.
+{"question":"Is there a s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of s5g3 cat sniffing b9l1 sneaker in a blooming flower field.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of s5g3 cat sniffing b9l1 sneaker in a blooming flower field.
+{"question":"Is the cat sniffing the sneaker in the flower field in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A scene of s5g3 cat lying next to b9l1 sneaker on a cobblestone street in an old town.
+{"question":"Is there a s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A scene of s5g3 cat lying next to b9l1 sneaker on a cobblestone street in an old town.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A scene of s5g3 cat lying next to b9l1 sneaker on a cobblestone street in an old town.
+{"question":"Is the cat lying next to the sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of s5g3 cat playing with b9l1 sneaker near a crystal-clear mountain lake.
+{"question":"Is there a s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of s5g3 cat playing with b9l1 sneaker near a crystal-clear mountain lake.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of s5g3 cat playing with b9l1 sneaker near a crystal-clear mountain lake.
+{"question":"Is the cat playing with the sneaker near the lake in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of s5g3 cat hiding behind b9l1 sneaker near a rustic wooden cabin in the forest.
+{"question":"Is there a s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of s5g3 cat hiding behind b9l1 sneaker near a rustic wooden cabin in the forest.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of s5g3 cat hiding behind b9l1 sneaker near a rustic wooden cabin in the forest.
+{"question":"Is the cat hiding behind the sneaker near the cabin in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of s5g3 cat carrying b9l1 sneaker through a golden wheat field at sunset.
+{"question":"Is there a s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of s5g3 cat carrying b9l1 sneaker through a golden wheat field at sunset.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of s5g3 cat carrying b9l1 sneaker through a golden wheat field at sunset.
+{"question":"Is the cat carrying the sneaker in the wheat field in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of s5g3 cat sitting next to b9l1 sneaker on a cozy rug in a modern living room.
+{"question":"Is there a s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of s5g3 cat sitting next to b9l1 sneaker on a cozy rug in a modern living room.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of s5g3 cat sitting next to b9l1 sneaker on a cozy rug in a modern living room.
+{"question":"Is the cat sitting next to the sneaker on the rug in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A scene of s5g3 cat sniffing b9l1 sneaker in a foggy autumn forest.
+{"question":"Is there a s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A scene of s5g3 cat sniffing b9l1 sneaker in a foggy autumn forest.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A scene of s5g3 cat sniffing b9l1 sneaker in a foggy autumn forest.
+{"question":"Is the cat sniffing the sneaker in the foggy forest in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of s5g3 cat lying near b9l1 sneaker under a cherry blossom tree in full bloom.
+{"question":"Is there a s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of s5g3 cat lying near b9l1 sneaker under a cherry blossom tree in full bloom.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of s5g3 cat lying near b9l1 sneaker under a cherry blossom tree in full bloom.
+{"question":"Is the cat lying near the sneaker under the tree in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of s5g3 cat playing with b9l1 sneaker on a rocky cliff overlooking the ocean.
+{"question":"Is there a s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of s5g3 cat playing with b9l1 sneaker on a rocky cliff overlooking the ocean.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of s5g3 cat playing with b9l1 sneaker on a rocky cliff overlooking the ocean.
+{"question":"Is the cat playing with the sneaker on the rocky cliff in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of s5g3 cat sniffing b9l1 sneaker in a snow-covered backyard.
+{"question":"Is there a s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of s5g3 cat sniffing b9l1 sneaker in a snow-covered backyard.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of s5g3 cat sniffing b9l1 sneaker in a snow-covered backyard.
+{"question":"Is the cat sniffing the sneaker in the backyard in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of s5g3 cat curled up with b9l1 sneaker near a crackling fireplace in a log cabin.
+{"question":"Is there a s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of s5g3 cat curled up with b9l1 sneaker near a crackling fireplace in a log cabin.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of s5g3 cat curled up with b9l1 sneaker near a crackling fireplace in a log cabin.
+{"question":"Is the cat curled up with the sneaker near the fireplace in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of s5g3 cat lying next to b9l1 sneaker on a wooden pier by a peaceful lake.
+{"question":"Is there a s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of s5g3 cat lying next to b9l1 sneaker on a wooden pier by a peaceful lake.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of s5g3 cat lying next to b9l1 sneaker on a wooden pier by a peaceful lake.
+{"question":"Is the cat lying next to the sneaker on the pier in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A scene of s5g3 cat carrying b9l1 sneaker on a deserted sandy beach.
+{"question":"Is there a s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A scene of s5g3 cat carrying b9l1 sneaker on a deserted sandy beach.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A scene of s5g3 cat carrying b9l1 sneaker on a deserted sandy beach.
+{"question":"Is the cat carrying the sneaker on the beach in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of s5g3 cat playing with b9l1 sneaker under a clear night sky in the countryside.
+{"question":"Is there a s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of s5g3 cat playing with b9l1 sneaker under a clear night sky in the countryside.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of s5g3 cat playing with b9l1 sneaker under a clear night sky in the countryside.
+{"question":"Is the cat playing with the sneaker under the night sky in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of s5g3 cat sniffing b9l1 sneaker in a sunlit greenhouse surrounded by plants.
+{"question":"Is there a s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of s5g3 cat sniffing b9l1 sneaker in a sunlit greenhouse surrounded by plants.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of s5g3 cat sniffing b9l1 sneaker in a sunlit greenhouse surrounded by plants.
+{"question":"Is the cat sniffing the sneaker in the greenhouse in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of s5g3 cat hiding with b9l1 sneaker on a farmyard with rolling green hills.
+{"question":"Is there a s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of s5g3 cat hiding with b9l1 sneaker on a farmyard with rolling green hills.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A picture of s5g3 cat hiding with b9l1 sneaker on a farmyard with rolling green hills.
+{"question":"Is the cat hiding with the sneaker on the farmyard in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A scene of s5g3 cat playing with b9l1 sneaker in a city park on a bright summer day.
+{"question":"Is there a s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A scene of s5g3 cat playing with b9l1 sneaker in a city park on a bright summer day.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A scene of s5g3 cat playing with b9l1 sneaker in a city park on a bright summer day.
+{"question":"Is the cat playing with the sneaker in the park in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of s5g3 cat lying near b9l1 sneaker by a sparkling waterfall in the jungle.
+{"question":"Is there a s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of s5g3 cat lying near b9l1 sneaker by a sparkling waterfall in the jungle.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A depiction of s5g3 cat lying near b9l1 sneaker by a sparkling waterfall in the jungle.
+{"question":"Is the cat lying near the sneaker by the waterfall in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of s5g3 cat sitting next to b9l1 sneaker on a balcony overlooking a bustling cityscape.
+{"question":"Is there a s5g3 cat in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of s5g3 cat sitting next to b9l1 sneaker on a balcony overlooking a bustling cityscape.
+{"question":"Is there a b9l1 sneaker in the image? Please just answer yes or no.","Correct Answer":"Yes"}
+Prompt: A photo of s5g3 cat sitting next to b9l1 sneaker on a balcony overlooking a bustling cityscape.
+{"question":"Is the cat sitting next to the sneaker on the balcony in the image? Please just answer yes or no.","Correct Answer":"Yes"}
