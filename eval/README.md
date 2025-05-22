@@ -160,4 +160,10 @@ inference_results
 ```
 
 To run the Cross-task Generalization evaluation, you can use the following command:
+```bash
+bash run/cross.sh
 ```
+
+The output files are formatted as a json file and a txt file named "result.json", "result.txt" in output folder.
+
+
