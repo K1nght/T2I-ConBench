@@ -2,14 +2,14 @@
 
 <div align="center">
   <a href="https://k1nght.github.io/T2I-ConBench/"><img src="https://img.shields.io/static/v1?label=Project%20Page&message=Github&color=blue&logo=github-pages"></a> &ensp;
-  <a href=""><img src="https://img.shields.io/static/v1?label=Paper&message=arXiv&color=red&logo=arxiv"></a> &ensp;
+  <a href="https://arxiv.org/abs/2505.16875"><img src="https://img.shields.io/static/v1?label=Paper&message=arXiv&color=red&logo=arxiv"></a> &ensp;
   <a href="https://huggingface.co/datasets/T2I-ConBench/T2I-ConBench"><img src="https://img.shields.io/static/v1?label=Dataset&message=HuggingFace&color=yellow"></a> &ensp;
 
 </div>
 
 ---
 This repository contains code for the paper of <strong>T2I-ConBench</strong>, a comprehensive benchmark for continual post-training of T2I diffusion models. 
-> [**T2I-ConBench: Text-to-Image Benchmark for Continual Post-training**]()<br>
+> [**T2I-ConBench: Text-to-Image Benchmark for Continual Post-training**](https://arxiv.org/pdf/2505.16875)<br>
 > [Zhehao Huang](https://k1nght.github.io/huangzhehao.github.io/)\*, [Yuhang Liu]()\*, [Yixin Lou]()\*, [Zhengbao He](), [Mingzhen He](), [Wenxing Zhou](), [Tao Li](https://nblt.github.io/), [Kehan Li](), [Zeyi Huang](), [Xiaolin Huang]()<br>
 > Shanghai Jiao Tong University, Huawei
 
