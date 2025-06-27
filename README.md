@@ -32,4 +32,15 @@ Continual post‑training adapts a single text‑to‑image diffusion model to l
 
 * [Evaluation](eval) 
 
-<!-- # 📚 Citation -->
+# 📚 Citation
+```
+@misc{huang2025t2iconbenchtexttoimagebenchmarkcontinual,
+      title={T2I-ConBench: Text-to-Image Benchmark for Continual Post-training}, 
+      author={Zhehao Huang and Yuhang Liu and Yixin Lou and Zhengbao He and Mingzhen He and Wenxing Zhou and Tao Li and Kehan Li and Zeyi Huang and Xiaolin Huang},
+      year={2025},
+      eprint={2505.16875},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2505.16875}, 
+}
+```
