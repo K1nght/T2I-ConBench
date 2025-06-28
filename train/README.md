@@ -16,7 +16,7 @@ This document outlines the step-by-step process for training and generating imag
 
 ### Method 1: Manual Installation
 ```bash
-conda create -n t2i-conbench python=3.9
+conda create -n t2i-conbench python=3.11
 conda activate t2i-conbench
 pip install torch==2.3.0 torchvision==0.18.0 torchaudio==2.3.0 --index-url https://download.pytorch.org/whl/cu121
 pip install -r requirements.txt
